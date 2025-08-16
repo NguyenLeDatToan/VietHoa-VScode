@@ -1,4 +1,4 @@
-# 🇻🇳 VS Code Vietnamese Language Pack – Project
+# Dự án Việt hóa giao diện VSCode
 
 > Bộ công cụ dịch + đóng gói extension Tiếng Việt cho VS Code dựa trên CSV và VSIX mẫu.
 
