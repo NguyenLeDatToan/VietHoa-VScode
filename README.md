@@ -95,4 +95,11 @@
 
 ---
 
+## 💖 Ủng hộ dự án
+Bạn thấy dự án hữu ích? Mọi đóng góp sẽ giúp mình duy trì và phát triển thêm tính năng, tài liệu và chất lượng dịch. Cảm ơn bạn rất nhiều! 🙌
+
+- Vietcombank: 1023395290
+
+Bạn có thể ghi nội dung chuyển khoản: ủng hộ VietHoa VSCode. Mình trân trọng mọi đóng góp của bạn! 💙
+
 Chúc bạn biên dịch vui vẻ! Nếu cần tối ưu bộ lọc “chuỗi mã/ký hiệu” hay thuật ngữ, hãy mở issue/PR trong repo. 😊
