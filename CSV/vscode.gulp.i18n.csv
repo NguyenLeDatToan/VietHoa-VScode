@@ -1,0 +1,9 @@
+"﻿""file""",scope,key,value_zh
+vscode.gulp.i18n.json,bundle,"Auto detecting gulp for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown","Auto detecting gulp for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown"
+vscode.gulp.i18n.json,package,config.gulp.autoDetect,config.gulp.autoDetect
+vscode.gulp.i18n.json,package,description,Sự miêu tả
+vscode.gulp.i18n.json,package,displayName,DisplayName
+vscode.gulp.i18n.json,bundle,Go to output,Đi đến đầu ra
+vscode.gulp.i18n.json,package,gulp.taskDefinition.file.description,gulp.taskDefinition.file.description
+vscode.gulp.i18n.json,package,gulp.taskDefinition.type.description,gulp.taskDefinition.type.description
+vscode.gulp.i18n.json,bundle,Problem finding gulp tasks. See the output for more information.,Vấn đề tìm kiếm các nhiệm vụ gulp. Xem đầu ra để biết thêm thông tin.

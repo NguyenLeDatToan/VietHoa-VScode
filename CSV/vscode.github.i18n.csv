@@ -1,0 +1,50 @@
+"﻿""file""",scope,key,value_zh
+vscode.github.i18n.json,bundle,{0} Open on GitHub,{0} Open on GitHub
+vscode.github.i18n.json,bundle,Checkout on vscode.dev,Checkout on vscode.dev
+vscode.github.i18n.json,package,command.copyVscodeDevLink,command.copyVscodeDevLink
+vscode.github.i18n.json,package,command.openOnGitHub,command.openOnGitHub
+vscode.github.i18n.json,package,command.openOnVscodeDev,command.openOnVscodeDev
+vscode.github.i18n.json,package,command.publish,command.publish
+vscode.github.i18n.json,bundle,Commit Changes,Cam kết thay đổi
+vscode.github.i18n.json,package,config.branchProtection,config.branchProtection
+vscode.github.i18n.json,package,config.gitAuthentication,config.gitAuthentication
+vscode.github.i18n.json,package,config.gitProtocol,config.gitProtocol
+vscode.github.i18n.json,package,config.showAvatar,config.showAvatar
+vscode.github.i18n.json,bundle,Copy Anyway,Sao chép dù sao
+vscode.github.i18n.json,bundle,Copy vscode.dev Link,Copy vscode.dev Link
+vscode.github.i18n.json,bundle,Create Fork,Tạo ngã ba
+vscode.github.i18n.json,bundle,Create GitHub fork,Tạo Fork GitHub
+vscode.github.i18n.json,bundle,Create PR,Tạo PR
+vscode.github.i18n.json,bundle,Creating first commit,Tạo cam kết đầu tiên
+vscode.github.i18n.json,bundle,Creating GitHub Pull Request...,Tạo yêu cầu kéo GitHub ...
+vscode.github.i18n.json,package,description,Sự miêu tả
+vscode.github.i18n.json,package,displayName,DisplayName
+vscode.github.i18n.json,bundle,"Forking ""{0}/{1}""...","Forking ""{0}/{1}""..."
+vscode.github.i18n.json,bundle,Learn More,Tìm hiểu thêm
+vscode.github.i18n.json,bundle,Log level: {0},Log level: {0}
+vscode.github.i18n.json,bundle,No,KHÔNG
+vscode.github.i18n.json,bundle,No GitHub remotes found that contain this commit.,Không có điều khiển từ xa của GitHub được tìm thấy chứa cam kết này.
+vscode.github.i18n.json,bundle,No template,Không có mẫu
+vscode.github.i18n.json,bundle,Open on GitHub,Mở trên GitHub
+vscode.github.i18n.json,bundle,Open PR,Mở PR
+vscode.github.i18n.json,bundle,Pick a folder to publish to GitHub,Chọn một thư mục để xuất bản lên GitHub
+vscode.github.i18n.json,bundle,Publish Branch & Copy Link,Xuất bản liên kết chi nhánh & bản sao
+vscode.github.i18n.json,bundle,Publishing to a private GitHub repository,Xuất bản vào kho lưu trữ GitHub riêng
+vscode.github.i18n.json,bundle,Publishing to a public GitHub repository,Xuất bản đến kho lưu trữ công khai
+vscode.github.i18n.json,bundle,Pull Changes & Copy Link,Kéo thay đổi & liên kết sao chép
+vscode.github.i18n.json,bundle,Push Commits & Copy Link,Đẩy liên kết COMPITS & COPY
+vscode.github.i18n.json,bundle,Pushing changes...,Đẩy các thay đổi ...
+vscode.github.i18n.json,bundle,Select the Pull Request template,Chọn mẫu yêu cầu kéo
+vscode.github.i18n.json,bundle,Select which files should be included in the repository.,Chọn các tệp nào nên được bao gồm trong kho lưu trữ.
+vscode.github.i18n.json,bundle,"Successfully published the ""{0}"" repository to GitHub.","Successfully published the ""{0}"" repository to GitHub."
+vscode.github.i18n.json,bundle,The current branch has unpublished commits. Would you like to push your commits before copying a link?,Chi nhánh hiện tại có cam kết chưa được công bố. Bạn có muốn đẩy các cam kết của bạn trước khi sao chép một liên kết không?
+vscode.github.i18n.json,bundle,The current branch is not published to the remote. Would you like to publish your branch before copying a link?,Chi nhánh hiện tại không được công bố đến điều khiển từ xa. Bạn có muốn xuất bản chi nhánh của mình trước khi sao chép một liên kết không?
+vscode.github.i18n.json,bundle,The current branch is not up to date. Would you like to pull before copying a link?,Chi nhánh hiện tại không được cập nhật. Bạn có muốn kéo trước khi sao chép một liên kết không?
+vscode.github.i18n.json,bundle,The current file has uncommitted changes. Please commit your changes before copying a link.,Tệp hiện tại có những thay đổi không cam kết. Vui lòng cam kết các thay đổi của bạn trước khi sao chép một liên kết.
+vscode.github.i18n.json,bundle,"The fork ""{0}"" was successfully created on GitHub.","The fork ""{0}"" was successfully created on GitHub."
+vscode.github.i18n.json,bundle,"The PR ""{0}/{1}#{2}"" was successfully created on GitHub.","The PR ""{0}/{1}#{2}"" was successfully created on GitHub."
+vscode.github.i18n.json,bundle,Uploading files,Tải lên các tập tin
+vscode.github.i18n.json,package,welcome.publishFolder,welcome.publishFolder
+vscode.github.i18n.json,package,welcome.publishWorkspaceFolder,welcome.publishWorkspaceFolder
+vscode.github.i18n.json,bundle,"You don't have permissions to push to ""{0}/{1}"" on GitHub. Would you like to create a fork and push to it instead?","You don't have permissions to push to ""{0}/{1}"" on GitHub. Would you like to create a fork and push to it instead?"
+vscode.github.i18n.json,bundle,"Your push to ""{0}/{1}"" was rejected by GitHub because push protection is enabled and one or more secrets were detected.","Your push to ""{0}/{1}"" was rejected by GitHub because push protection is enabled and one or more secrets were detected."

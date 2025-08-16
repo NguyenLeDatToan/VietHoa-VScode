@@ -1,0 +1,15 @@
+"﻿""file""",scope,key,value_zh
+vscode.git-base.i18n.json,bundle,{0} Error: {1},{0} Error: {1}
+vscode.git-base.i18n.json,bundle,Branch name,Tên chi nhánh
+vscode.git-base.i18n.json,bundle,Choose a URL to clone from.,Chọn một URL để nhân bản từ.
+vscode.git-base.i18n.json,package,command.api.getRemoteSources,command.api.getRemoteSources
+vscode.git-base.i18n.json,package,description,Sự miêu tả
+vscode.git-base.i18n.json,package,displayName,DisplayName
+vscode.git-base.i18n.json,bundle,No remote repositories found.,Không tìm thấy kho lưu trữ từ xa.
+vscode.git-base.i18n.json,bundle,Provide repository URL,Cung cấp URL kho lưu trữ
+vscode.git-base.i18n.json,bundle,Provide repository URL or pick a repository source.,Cung cấp URL kho lưu trữ hoặc chọn nguồn kho lưu trữ.
+vscode.git-base.i18n.json,bundle,recently opened,Gần đây đã mở
+vscode.git-base.i18n.json,bundle,remote sources,nguồn từ xa
+vscode.git-base.i18n.json,bundle,Repository name,Tên kho lưu trữ
+vscode.git-base.i18n.json,bundle,Repository name (type to search),Tên kho lưu trữ (nhập để tìm kiếm)
+vscode.git-base.i18n.json,bundle,URL,URL

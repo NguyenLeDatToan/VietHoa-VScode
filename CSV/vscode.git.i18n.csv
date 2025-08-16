@@ -1,0 +1,815 @@
+"﻿""file""",scope,key,value_zh
+vscode.git.i18n.json,bundle,"
+
+Are you sure you want to discard ALL changes in {0} files?","
+
+Are you sure you want to discard ALL changes in {0} files?"
+vscode.git.i18n.json,bundle,"
+
+Are you sure you want to discard changes in '{0}'?","
+
+Are you sure you want to discard changes in '{0}'?"
+vscode.git.i18n.json,bundle,"""{0}"" has fingerprint ""{1}""","""{0}"" has fingerprint ""{1}"""
+vscode.git.i18n.json,bundle,[main] Log level: {0},[main] Log level: {0}
+vscode.git.i18n.json,bundle,"[main] Skipped found git in: ""{0}""","[main] Skipped found git in: ""{0}"""
+vscode.git.i18n.json,bundle,"[main] Using git ""{0}"" from ""{1}""","[main] Using git ""{0}"" from ""{1}"""
+vscode.git.i18n.json,bundle,"[main] Validating found git in: ""{0}""","[main] Validating found git in: ""{0}"""
+vscode.git.i18n.json,bundle,{0} ({1}),{0} ({1})
+vscode.git.i18n.json,bundle,{0} ({1}) ↔ {0} ({2}),{0} ({1}) ↔ {0} ({2})
+vscode.git.i18n.json,bundle,{0} (Deleted),{0} (Deleted)
+vscode.git.i18n.json,bundle,{0} (Index),{0} (Index)
+vscode.git.i18n.json,bundle,{0} (Intent to add),{0} (Intent to add)
+vscode.git.i18n.json,bundle,{0} (Ours),{0} (Ours)
+vscode.git.i18n.json,bundle,{0} (Theirs),{0} (Theirs)
+vscode.git.i18n.json,bundle,{0} (Type changed),{0} (Type changed)
+vscode.git.i18n.json,bundle,{0} (Untracked),{0} (Untracked)
+vscode.git.i18n.json,bundle,{0} (Working Tree),{0} (Working Tree)
+vscode.git.i18n.json,bundle,{0} ↔ {1},{0} ↔ {1}
+vscode.git.i18n.json,bundle,{0} characters over {1} in current line,{0} characters over {1} in current line
+vscode.git.i18n.json,bundle,{0} Checkout detached...,{0} Checkout detached...
+vscode.git.i18n.json,bundle,{0} Commit,{0} Commit
+vscode.git.i18n.json,bundle,{0} Commit (Amend),{0} Commit (Amend)
+vscode.git.i18n.json,bundle,{0} Commit & Push,{0} Commit & Push
+vscode.git.i18n.json,bundle,{0} Commit & Sync,{0} Commit & Sync
+vscode.git.i18n.json,bundle,{0} Continue,{0} Continue
+vscode.git.i18n.json,bundle,{0} Create new branch from...,{0} Create new branch from...
+vscode.git.i18n.json,bundle,{0} Create new branch...,{0} Create new branch...
+vscode.git.i18n.json,bundle,{0} day,{0} day
+vscode.git.i18n.json,bundle,{0} day ago,{0} day ago
+vscode.git.i18n.json,bundle,{0} days,{0} days
+vscode.git.i18n.json,bundle,{0} days ago,{0} days ago
+vscode.git.i18n.json,bundle,{0} deletion{1},{0} deletion{1}
+vscode.git.i18n.json,bundle,{0} deletions{1},{0} deletions{1}
+vscode.git.i18n.json,bundle,{0} Fetch all remotes,{0} Fetch all remotes
+vscode.git.i18n.json,bundle,{0} file changed,{0} file changed
+vscode.git.i18n.json,bundle,{0} files changed,{0} files changed
+vscode.git.i18n.json,bundle,{0} hour,{0} hour
+vscode.git.i18n.json,bundle,{0} hour ago,{0} hour ago
+vscode.git.i18n.json,bundle,{0} hours,{0} hours
+vscode.git.i18n.json,bundle,{0} hours ago,{0} hours ago
+vscode.git.i18n.json,bundle,{0} hr,{0} hr
+vscode.git.i18n.json,bundle,{0} hr ago,{0} hr ago
+vscode.git.i18n.json,bundle,{0} hrs,{0} hrs
+vscode.git.i18n.json,bundle,{0} hrs ago,{0} hrs ago
+vscode.git.i18n.json,bundle,{0} insertion{1},{0} insertion{1}
+vscode.git.i18n.json,bundle,{0} insertions{1},{0} insertions{1}
+vscode.git.i18n.json,bundle,{0} min,{0} min
+vscode.git.i18n.json,bundle,{0} min ago,{0} min ago
+vscode.git.i18n.json,bundle,{0} mins,{0} mins
+vscode.git.i18n.json,bundle,{0} mins ago,{0} mins ago
+vscode.git.i18n.json,bundle,{0} minute,{0} minute
+vscode.git.i18n.json,bundle,{0} minute ago,{0} minute ago
+vscode.git.i18n.json,bundle,{0} minutes,{0} minutes
+vscode.git.i18n.json,bundle,{0} minutes ago,{0} minutes ago
+vscode.git.i18n.json,bundle,{0} mo,{0} mo
+vscode.git.i18n.json,bundle,{0} mo ago,{0} mo ago
+vscode.git.i18n.json,bundle,{0} month,{0} month
+vscode.git.i18n.json,bundle,{0} month ago,{0} month ago
+vscode.git.i18n.json,bundle,{0} months,{0} months
+vscode.git.i18n.json,bundle,{0} months ago,{0} months ago
+vscode.git.i18n.json,bundle,{0} mos,{0} mos
+vscode.git.i18n.json,bundle,{0} mos ago,{0} mos ago
+vscode.git.i18n.json,bundle,"{0} Publish Branch/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term","{0} Publish Branch/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term"
+vscode.git.i18n.json,bundle,{0} sec,{0} sec
+vscode.git.i18n.json,bundle,{0} sec ago,{0} sec ago
+vscode.git.i18n.json,bundle,{0} second,{0} second
+vscode.git.i18n.json,bundle,{0} second ago,{0} second ago
+vscode.git.i18n.json,bundle,{0} seconds,{0} seconds
+vscode.git.i18n.json,bundle,{0} seconds ago,{0} seconds ago
+vscode.git.i18n.json,bundle,{0} secs,{0} secs
+vscode.git.i18n.json,bundle,{0} secs ago,{0} secs ago
+vscode.git.i18n.json,bundle,{0} Sync Changes{1}{2},{0} Sync Changes{1}{2}
+vscode.git.i18n.json,bundle,{0} week,{0} week
+vscode.git.i18n.json,bundle,{0} week ago,{0} week ago
+vscode.git.i18n.json,bundle,{0} weeks,{0} weeks
+vscode.git.i18n.json,bundle,{0} weeks ago,{0} weeks ago
+vscode.git.i18n.json,bundle,{0} wk,{0} wk
+vscode.git.i18n.json,bundle,{0} wk ago,{0} wk ago
+vscode.git.i18n.json,bundle,{0} wks,{0} wks
+vscode.git.i18n.json,bundle,{0} wks ago,{0} wks ago
+vscode.git.i18n.json,bundle,{0} year,{0} year
+vscode.git.i18n.json,bundle,{0} year ago,{0} year ago
+vscode.git.i18n.json,bundle,{0} years,{0} years
+vscode.git.i18n.json,bundle,{0} years ago,{0} years ago
+vscode.git.i18n.json,bundle,{0} yr,{0} yr
+vscode.git.i18n.json,bundle,{0} yr ago,{0} yr ago
+vscode.git.i18n.json,bundle,{0} yrs,{0} yrs
+vscode.git.i18n.json,bundle,{0} yrs ago,{0} yrs ago
+vscode.git.i18n.json,bundle,"$(info) Remote ""{0}"" has no tags.","$(info) Remote ""{0}"" has no tags."
+vscode.git.i18n.json,bundle,$(info) This repository has no stashes.,$ (thông tin) Kho lưu trữ này không có stash.
+vscode.git.i18n.json,bundle,$(info) This repository has no tags.,$ (thông tin) Kho lưu trữ này không có thẻ.
+vscode.git.i18n.json,bundle,$(info) This repository has no worktrees.,$ (thông tin) Kho lưu trữ này không có bàn làm việc.
+vscode.git.i18n.json,bundle,"A branch named ""{0}"" already exists","A branch named ""{0}"" already exists"
+vscode.git.i18n.json,bundle,A git repository was found in the parent folders of the workspace or the open file(s). Would you like to open the repository?,Kho lưu trữ Git đã được tìm thấy trong các thư mục cha của không gian làm việc hoặc (các) tệp mở. Bạn có muốn mở kho?
+vscode.git.i18n.json,bundle,"Absolute paths not supported in ""git.scanRepositories"" setting.","Absolute paths not supported in ""git.scanRepositories"" setting."
+vscode.git.i18n.json,bundle,Add a new remote...,Thêm một điều khiển từ xa mới ...
+vscode.git.i18n.json,bundle,Add Remote,Thêm điều khiển từ xa
+vscode.git.i18n.json,bundle,Add remote from {0},Add remote from {0}
+vscode.git.i18n.json,bundle,Add remote from URL,Thêm điều khiển từ xa từ URL
+vscode.git.i18n.json,bundle,Add to Workspace,Thêm vào không gian làm việc
+vscode.git.i18n.json,bundle,All Repositories,Tất cả các kho lưu trữ
+vscode.git.i18n.json,bundle,Always,Luôn luôn
+vscode.git.i18n.json,bundle,Always Pull,Luôn luôn kéo
+vscode.git.i18n.json,bundle,Always Replace Local Tag(s),Luôn thay thế (các) thẻ cục bộ
+vscode.git.i18n.json,bundle,Are you sure you want to continue connecting?,Bạn có chắc là bạn muốn tiếp tục kết nối?
+vscode.git.i18n.json,bundle,Are you sure you want to create an empty commit?,Bạn có chắc là bạn muốn tạo ra một cam kết trống?
+vscode.git.i18n.json,bundle,Are you sure you want to DELETE the {0} untracked files?{1},Are you sure you want to DELETE the {0} untracked files?{1}
+vscode.git.i18n.json,bundle,Are you sure you want to DELETE the following untracked file: '{0}'?{1},Are you sure you want to DELETE the following untracked file: '{0}'?{1}
+vscode.git.i18n.json,bundle,"Are you sure you want to discard ALL changes in {0} files?
+
+This is IRREVERSIBLE!
+Your current working set will be FOREVER LOST if you proceed.","Are you sure you want to discard ALL changes in {0} files?
+
+This is IRREVERSIBLE!
+Your current working set will be FOREVER LOST if you proceed."
+vscode.git.i18n.json,bundle,Are you sure you want to discard changes in '{0}'?,Are you sure you want to discard changes in '{0}'?
+vscode.git.i18n.json,bundle,"Are you sure you want to drop ALL stashes? There are {0} stashes that will be subject to pruning, and MAY BE IMPOSSIBLE TO RECOVER.","Are you sure you want to drop ALL stashes? There are {0} stashes that will be subject to pruning, and MAY BE IMPOSSIBLE TO RECOVER."
+vscode.git.i18n.json,bundle,"Are you sure you want to drop ALL stashes? There is 1 stash that will be subject to pruning, and MAY BE IMPOSSIBLE TO RECOVER.",Bạn có chắc là bạn muốn bỏ tất cả các stash? Có 1 stash sẽ bị cắt tỉa và có thể không thể phục hồi.
+vscode.git.i18n.json,bundle,Are you sure you want to drop the stash: {0}?,Are you sure you want to drop the stash: {0}?
+vscode.git.i18n.json,bundle,Are you sure you want to restore '{0}'?,Are you sure you want to restore '{0}'?
+vscode.git.i18n.json,bundle,Are you sure you want to restore ALL {0} files?,Are you sure you want to restore ALL {0} files?
+vscode.git.i18n.json,bundle,Are you sure you want to stage {0} files with merge conflicts?,Are you sure you want to stage {0} files with merge conflicts?
+vscode.git.i18n.json,bundle,Are you sure you want to stage {0} with merge conflicts?,Are you sure you want to stage {0} with merge conflicts?
+vscode.git.i18n.json,bundle,Ask Me Later,Hỏi tôi sau
+vscode.git.i18n.json,bundle,"Branch ""{0}"" already exists","Branch ""{0}"" already exists"
+vscode.git.i18n.json,bundle,Branch name,Tên chi nhánh
+vscode.git.i18n.json,bundle,Branch name needs to match regex: {0},Branch name needs to match regex: {0}
+vscode.git.i18n.json,bundle,branches,cành
+vscode.git.i18n.json,bundle,"Can't force push refs to remote. The tip of the remote-tracking branch has been updated since the last checkout. Try running ""Pull"" first to pull the latest changes from the remote branch first.","Không thể buộc các refs đẩy đến từ xa. Đầu của nhánh theo dõi từ xa đã được cập nhật kể từ lần thanh toán cuối cùng. Hãy thử chạy ""Kéo"" trước để kéo các thay đổi mới nhất từ nhánh từ xa trước."
+vscode.git.i18n.json,bundle,"Can't push refs to remote. Try running ""Pull"" first to integrate your changes.","Không thể đẩy refs đến từ xa. Hãy thử chạy ""Kéo"" trước để tích hợp các thay đổi của bạn."
+vscode.git.i18n.json,bundle,Can't undo because HEAD doesn't point to any commit.,Không thể hoàn tác vì Head không chỉ ra bất kỳ cam kết nào.
+vscode.git.i18n.json,bundle,Changes,Thay đổi
+vscode.git.i18n.json,bundle,Checking Out Branch/Tag...,Checking Out Branch/Tag...
+vscode.git.i18n.json,bundle,Checking Out Changes...,Kiểm tra các thay đổi ...
+vscode.git.i18n.json,bundle,Checkout Branch/Tag...,Checkout Branch/Tag...
+vscode.git.i18n.json,bundle,Choose a folder to clone {0} into,Choose a folder to clone {0} into
+vscode.git.i18n.json,bundle,Choose a repository,Chọn một kho lưu trữ
+vscode.git.i18n.json,bundle,Choose Folder...,Chọn thư mục ...
+vscode.git.i18n.json,bundle,Choose which repository to clone,Chọn kho lưu trữ nào cho bản sao
+vscode.git.i18n.json,bundle,Choose which repository to publish,Chọn kho lưu trữ nào để xuất bản
+vscode.git.i18n.json,bundle,Clear whitespace characters,Xóa các ký tự khoảng trắng
+vscode.git.i18n.json,bundle,Clone from {0},Clone from {0}
+vscode.git.i18n.json,bundle,Clone from URL,Nhân bản từ url
+vscode.git.i18n.json,bundle,"Cloning git repository ""{0}""...","Cloning git repository ""{0}""..."
+vscode.git.i18n.json,package,colors.added,colors.added
+vscode.git.i18n.json,package,colors.blameEditorDecoration,colors.blameEditorDecoration
+vscode.git.i18n.json,package,colors.conflict,colors.conflict
+vscode.git.i18n.json,package,colors.deleted,colors.deleted
+vscode.git.i18n.json,package,colors.ignored,colors.ignored
+vscode.git.i18n.json,package,colors.incomingAdded,colors.incomingAdded
+vscode.git.i18n.json,package,colors.incomingDeleted,colors.incomingDeleted
+vscode.git.i18n.json,package,colors.incomingModified,colors.incomingModified
+vscode.git.i18n.json,package,colors.incomingRenamed,colors.incomingRenamed
+vscode.git.i18n.json,package,colors.modified,colors.modified
+vscode.git.i18n.json,package,colors.renamed,colors.renamed
+vscode.git.i18n.json,package,colors.stageDeleted,colors.stageDeleted
+vscode.git.i18n.json,package,colors.stageModified,colors.stageModified
+vscode.git.i18n.json,package,colors.submodule,colors.submodule
+vscode.git.i18n.json,package,colors.untracked,colors.untracked
+vscode.git.i18n.json,package,command.addRemote,command.addRemote
+vscode.git.i18n.json,package,command.api.getRemoteSources,command.api.getRemoteSources
+vscode.git.i18n.json,package,command.api.getRepositories,command.api.getRepositories
+vscode.git.i18n.json,package,command.api.getRepositoryState,command.api.getRepositoryState
+vscode.git.i18n.json,package,command.blameToggleEditorDecoration,command.blameToggleEditorDecoration
+vscode.git.i18n.json,package,command.blameToggleStatusBarItem,command.blameToggleStatusBarItem
+vscode.git.i18n.json,package,command.branch,command.branch
+vscode.git.i18n.json,package,command.branchFrom,command.branchFrom
+vscode.git.i18n.json,package,command.checkout,command.checkout
+vscode.git.i18n.json,package,command.checkoutDetached,command.checkoutDetached
+vscode.git.i18n.json,package,command.cherryPick,command.cherryPick
+vscode.git.i18n.json,package,command.cherryPickAbort,command.cherryPickAbort
+vscode.git.i18n.json,package,command.clean,command.clean
+vscode.git.i18n.json,package,command.cleanAll,command.cleanAll
+vscode.git.i18n.json,package,command.cleanAllTracked,command.cleanAllTracked
+vscode.git.i18n.json,package,command.cleanAllUntracked,command.cleanAllUntracked
+vscode.git.i18n.json,package,command.clone,command.clone
+vscode.git.i18n.json,package,command.cloneRecursive,command.cloneRecursive
+vscode.git.i18n.json,package,command.close,command.close
+vscode.git.i18n.json,package,command.closeAllDiffEditors,command.closeAllDiffEditors
+vscode.git.i18n.json,package,command.closeAllUnmodifiedEditors,command.closeAllUnmodifiedEditors
+vscode.git.i18n.json,package,command.closeOtherRepositories,command.closeOtherRepositories
+vscode.git.i18n.json,package,command.commit,command.commit
+vscode.git.i18n.json,package,command.commitAll,command.commitAll
+vscode.git.i18n.json,package,command.commitAllAmend,command.commitAllAmend
+vscode.git.i18n.json,package,command.commitAllAmendNoVerify,command.commitAllAmendNoVerify
+vscode.git.i18n.json,package,command.commitAllNoVerify,command.commitAllNoVerify
+vscode.git.i18n.json,package,command.commitAllSigned,command.commitAllSigned
+vscode.git.i18n.json,package,command.commitAllSignedNoVerify,command.commitAllSignedNoVerify
+vscode.git.i18n.json,package,command.commitAmend,command.commitAmend
+vscode.git.i18n.json,package,command.commitAmendNoVerify,command.commitAmendNoVerify
+vscode.git.i18n.json,package,command.commitEmpty,command.commitEmpty
+vscode.git.i18n.json,package,command.commitEmptyNoVerify,command.commitEmptyNoVerify
+vscode.git.i18n.json,package,command.commitMessageAccept,command.commitMessageAccept
+vscode.git.i18n.json,package,command.commitMessageDiscard,command.commitMessageDiscard
+vscode.git.i18n.json,package,command.commitNoVerify,command.commitNoVerify
+vscode.git.i18n.json,package,command.commitSigned,command.commitSigned
+vscode.git.i18n.json,package,command.commitSignedNoVerify,command.commitSignedNoVerify
+vscode.git.i18n.json,package,command.commitStaged,command.commitStaged
+vscode.git.i18n.json,package,command.commitStagedAmend,command.commitStagedAmend
+vscode.git.i18n.json,package,command.commitStagedAmendNoVerify,command.commitStagedAmendNoVerify
+vscode.git.i18n.json,package,command.commitStagedNoVerify,command.commitStagedNoVerify
+vscode.git.i18n.json,package,command.commitStagedSigned,command.commitStagedSigned
+vscode.git.i18n.json,package,command.commitStagedSignedNoVerify,command.commitStagedSignedNoVerify
+vscode.git.i18n.json,package,command.continueInLocalClone,command.continueInLocalClone
+vscode.git.i18n.json,package,command.continueInLocalClone.qualifiedName,command.continueInLocalClone.qualifiedName
+vscode.git.i18n.json,package,command.createTag,command.createTag
+vscode.git.i18n.json,package,command.createWorktree,command.createWorktree
+vscode.git.i18n.json,package,command.deleteBranch,command.deleteBranch
+vscode.git.i18n.json,package,command.deleteRemoteBranch,command.deleteRemoteBranch
+vscode.git.i18n.json,package,command.deleteRemoteTag,command.deleteRemoteTag
+vscode.git.i18n.json,package,command.deleteTag,command.deleteTag
+vscode.git.i18n.json,package,command.deleteWorktree,command.deleteWorktree
+vscode.git.i18n.json,package,command.deleteWorktreeFromPalette,command.deleteWorktreeFromPalette
+vscode.git.i18n.json,package,command.fetch,command.fetch
+vscode.git.i18n.json,package,command.fetchAll,command.fetchAll
+vscode.git.i18n.json,package,command.fetchPrune,command.fetchPrune
+vscode.git.i18n.json,package,command.git.acceptMerge,command.git.acceptMerge
+vscode.git.i18n.json,package,command.git.openMergeEditor,command.git.openMergeEditor
+vscode.git.i18n.json,package,command.git.runGitMerge,command.git.runGitMerge
+vscode.git.i18n.json,package,command.git.runGitMergeDiff3,command.git.runGitMergeDiff3
+vscode.git.i18n.json,package,command.graphCheckout,command.graphCheckout
+vscode.git.i18n.json,package,command.graphCheckoutDetached,command.graphCheckoutDetached
+vscode.git.i18n.json,package,command.graphCherryPick,command.graphCherryPick
+vscode.git.i18n.json,package,command.graphDeleteBranch,command.graphDeleteBranch
+vscode.git.i18n.json,package,command.graphDeleteTag,command.graphDeleteTag
+vscode.git.i18n.json,package,command.ignore,command.ignore
+vscode.git.i18n.json,package,command.init,command.init
+vscode.git.i18n.json,package,command.manageUnsafeRepositories,command.manageUnsafeRepositories
+vscode.git.i18n.json,package,command.merge,command.merge
+vscode.git.i18n.json,package,command.mergeAbort,command.mergeAbort
+vscode.git.i18n.json,package,command.openAllChanges,command.openAllChanges
+vscode.git.i18n.json,package,command.openChange,command.openChange
+vscode.git.i18n.json,package,command.openFile,command.openFile
+vscode.git.i18n.json,package,command.openHEADFile,command.openHEADFile
+vscode.git.i18n.json,package,command.openRepositoriesInParentFolders,command.openRepositoriesInParentFolders
+vscode.git.i18n.json,package,command.openRepository,command.openRepository
+vscode.git.i18n.json,package,command.openWorktree,command.openWorktree
+vscode.git.i18n.json,package,command.openWorktreeInNewWindow,command.openWorktreeInNewWindow
+vscode.git.i18n.json,package,command.publish,command.publish
+vscode.git.i18n.json,package,command.pull,command.pull
+vscode.git.i18n.json,package,command.pullFrom,command.pullFrom
+vscode.git.i18n.json,package,command.pullRebase,command.pullRebase
+vscode.git.i18n.json,package,command.push,command.push
+vscode.git.i18n.json,package,command.pushFollowTags,command.pushFollowTags
+vscode.git.i18n.json,package,command.pushFollowTagsForce,command.pushFollowTagsForce
+vscode.git.i18n.json,package,command.pushForce,command.pushForce
+vscode.git.i18n.json,package,command.pushTags,command.pushTags
+vscode.git.i18n.json,package,command.pushTo,command.pushTo
+vscode.git.i18n.json,package,command.pushToForce,command.pushToForce
+vscode.git.i18n.json,package,command.rebase,command.rebase
+vscode.git.i18n.json,package,command.rebaseAbort,command.rebaseAbort
+vscode.git.i18n.json,package,command.refresh,command.refresh
+vscode.git.i18n.json,package,command.removeRemote,command.removeRemote
+vscode.git.i18n.json,package,command.rename,command.rename
+vscode.git.i18n.json,package,command.renameBranch,command.renameBranch
+vscode.git.i18n.json,package,command.reopenClosedRepositories,command.reopenClosedRepositories
+vscode.git.i18n.json,package,command.restoreCommitTemplate,command.restoreCommitTemplate
+vscode.git.i18n.json,package,command.revealFileInOS.linux,command.revealFileInOS.linux
+vscode.git.i18n.json,package,command.revealFileInOS.mac,command.revealFileInOS.mac
+vscode.git.i18n.json,package,command.revealFileInOS.windows,command.revealFileInOS.windows
+vscode.git.i18n.json,package,command.revealInExplorer,command.revealInExplorer
+vscode.git.i18n.json,package,command.revertChange,command.revertChange
+vscode.git.i18n.json,package,command.revertSelectedRanges,command.revertSelectedRanges
+vscode.git.i18n.json,package,command.showOutput,command.showOutput
+vscode.git.i18n.json,package,command.stage,command.stage
+vscode.git.i18n.json,package,command.stageAll,command.stageAll
+vscode.git.i18n.json,package,command.stageAllMerge,command.stageAllMerge
+vscode.git.i18n.json,package,command.stageAllTracked,command.stageAllTracked
+vscode.git.i18n.json,package,command.stageAllUntracked,command.stageAllUntracked
+vscode.git.i18n.json,package,command.stageBlock,command.stageBlock
+vscode.git.i18n.json,package,command.stageChange,command.stageChange
+vscode.git.i18n.json,package,command.stageSelectedRanges,command.stageSelectedRanges
+vscode.git.i18n.json,package,command.stageSelection,command.stageSelection
+vscode.git.i18n.json,package,command.stash,command.stash
+vscode.git.i18n.json,package,command.stashApply,command.stashApply
+vscode.git.i18n.json,package,command.stashApplyEditor,command.stashApplyEditor
+vscode.git.i18n.json,package,command.stashApplyLatest,command.stashApplyLatest
+vscode.git.i18n.json,package,command.stashDrop,command.stashDrop
+vscode.git.i18n.json,package,command.stashDropAll,command.stashDropAll
+vscode.git.i18n.json,package,command.stashDropEditor,command.stashDropEditor
+vscode.git.i18n.json,package,command.stashIncludeUntracked,command.stashIncludeUntracked
+vscode.git.i18n.json,package,command.stashPop,command.stashPop
+vscode.git.i18n.json,package,command.stashPopEditor,command.stashPopEditor
+vscode.git.i18n.json,package,command.stashPopLatest,command.stashPopLatest
+vscode.git.i18n.json,package,command.stashStaged,command.stashStaged
+vscode.git.i18n.json,package,command.stashView,command.stashView
+vscode.git.i18n.json,package,command.sync,command.sync
+vscode.git.i18n.json,package,command.syncRebase,command.syncRebase
+vscode.git.i18n.json,package,command.timelineCompareWithSelected,command.timelineCompareWithSelected
+vscode.git.i18n.json,package,command.timelineCopyCommitId,command.timelineCopyCommitId
+vscode.git.i18n.json,package,command.timelineCopyCommitMessage,command.timelineCopyCommitMessage
+vscode.git.i18n.json,package,command.timelineOpenDiff,command.timelineOpenDiff
+vscode.git.i18n.json,package,command.timelineSelectForCompare,command.timelineSelectForCompare
+vscode.git.i18n.json,package,command.undoCommit,command.undoCommit
+vscode.git.i18n.json,package,command.unstage,command.unstage
+vscode.git.i18n.json,package,command.unstageAll,command.unstageAll
+vscode.git.i18n.json,package,command.unstageChange,command.unstageChange
+vscode.git.i18n.json,package,command.unstageSelectedRanges,command.unstageSelectedRanges
+vscode.git.i18n.json,package,command.viewChanges,command.viewChanges
+vscode.git.i18n.json,package,command.viewCommit,command.viewCommit
+vscode.git.i18n.json,package,command.viewStagedChanges,command.viewStagedChanges
+vscode.git.i18n.json,package,command.viewUntrackedChanges,command.viewUntrackedChanges
+vscode.git.i18n.json,bundle,Commit,Làm
+vscode.git.i18n.json,bundle,Commit & Push Changes,Thay đổi cam kết và đẩy
+vscode.git.i18n.json,bundle,Commit & Sync Changes,Thay đổi cam kết & đồng bộ hóa
+vscode.git.i18n.json,bundle,Commit Anyway,Dù sao đi nữa
+vscode.git.i18n.json,bundle,Commit Changes,Cam kết thay đổi
+vscode.git.i18n.json,bundle,"Commit Changes on ""{0}""","Commit Changes on ""{0}"""
+vscode.git.i18n.json,bundle,Commit Changes to New Branch,Cam kết thay đổi chi nhánh mới
+vscode.git.i18n.json,bundle,Commit Hash,Cam kết băm
+vscode.git.i18n.json,bundle,Commit message,Cam kết tin nhắn
+vscode.git.i18n.json,bundle,Commit operation was cancelled due to empty commit message.,Hoạt động cam kết đã bị hủy do tin nhắn cam kết trống.
+vscode.git.i18n.json,bundle,Commit to a New Branch,Cam kết với một chi nhánh mới
+vscode.git.i18n.json,bundle,Commit to New Branch & Push Changes,Cam kết thay đổi chi nhánh mới và thay đổi đẩy
+vscode.git.i18n.json,bundle,Commit to New Branch & Synchronize Changes,Cam kết với chi nhánh mới và đồng bộ hóa các thay đổi
+vscode.git.i18n.json,bundle,"Commits without verification are not allowed, please enable them with the ""git.allowNoVerifyCommit"" setting.","Commits without verification are not allowed, please enable them with the ""git.allowNoVerifyCommit"" setting."
+vscode.git.i18n.json,bundle,Committing & Pushing Changes...,Cam kết và thúc đẩy thay đổi ...
+vscode.git.i18n.json,bundle,Committing & Synchronizing Changes...,Cam kết và đồng bộ hóa các thay đổi ...
+vscode.git.i18n.json,bundle,Committing Changes to New Branch...,Cam kết thay đổi chi nhánh mới ...
+vscode.git.i18n.json,bundle,Committing Changes...,Cam kết thay đổi ...
+vscode.git.i18n.json,bundle,Committing to New Branch & Pushing Changes...,Cam kết với chi nhánh mới và thúc đẩy thay đổi ...
+vscode.git.i18n.json,bundle,Committing to New Branch & Synchronizing Changes...,Cam kết các thay đổi chi nhánh mới và đồng bộ hóa ...
+vscode.git.i18n.json,package,config.allowForcePush,config.allowForcePush
+vscode.git.i18n.json,package,config.allowNoVerifyCommit,config.allowNoVerifyCommit
+vscode.git.i18n.json,package,config.alwaysShowStagedChangesResourceGroup,config.alwaysShowStagedChangesResourceGroup
+vscode.git.i18n.json,package,config.alwaysSignOff,config.alwaysSignOff
+vscode.git.i18n.json,package,config.autofetch,config.autofetch
+vscode.git.i18n.json,package,config.autofetchPeriod,config.autofetchPeriod
+vscode.git.i18n.json,package,config.autorefresh,config.autorefresh
+vscode.git.i18n.json,package,config.autoRepositoryDetection,config.autoRepositoryDetection
+vscode.git.i18n.json,package,config.autoRepositoryDetection.false,config.autoRepositoryDetection.false
+vscode.git.i18n.json,package,config.autoRepositoryDetection.openEditors,config.autoRepositoryDetection.openEditors
+vscode.git.i18n.json,package,config.autoRepositoryDetection.subFolders,config.autoRepositoryDetection.subFolders
+vscode.git.i18n.json,package,config.autoRepositoryDetection.true,config.autoRepositoryDetection.true
+vscode.git.i18n.json,package,config.autoStash,config.autoStash
+vscode.git.i18n.json,package,config.blameEditorDecoration.enabled,config.blameEditorDecoration.enabled
+vscode.git.i18n.json,package,config.blameEditorDecoration.template,config.blameEditorDecoration.template
+vscode.git.i18n.json,package,config.blameStatusBarItem.enabled,config.blameStatusBarItem.enabled
+vscode.git.i18n.json,package,config.blameStatusBarItem.template,config.blameStatusBarItem.template
+vscode.git.i18n.json,package,config.branchPrefix,config.branchPrefix
+vscode.git.i18n.json,package,config.branchProtection,config.branchProtection
+vscode.git.i18n.json,package,config.branchProtectionPrompt,config.branchProtectionPrompt
+vscode.git.i18n.json,package,config.branchProtectionPrompt.alwaysCommit,config.branchProtectionPrompt.alwaysCommit
+vscode.git.i18n.json,package,config.branchProtectionPrompt.alwaysCommitToNewBranch,config.branchProtectionPrompt.alwaysCommitToNewBranch
+vscode.git.i18n.json,package,config.branchProtectionPrompt.alwaysPrompt,config.branchProtectionPrompt.alwaysPrompt
+vscode.git.i18n.json,package,config.branchRandomNameDictionary,config.branchRandomNameDictionary
+vscode.git.i18n.json,package,config.branchRandomNameDictionary.adjectives,config.branchRandomNameDictionary.adjectives
+vscode.git.i18n.json,package,config.branchRandomNameDictionary.animals,config.branchRandomNameDictionary.animals
+vscode.git.i18n.json,package,config.branchRandomNameDictionary.colors,config.branchRandomNameDictionary.colors
+vscode.git.i18n.json,package,config.branchRandomNameDictionary.numbers,config.branchRandomNameDictionary.numbers
+vscode.git.i18n.json,package,config.branchRandomNameEnable,config.branchRandomNameEnable
+vscode.git.i18n.json,package,config.branchSortOrder,config.branchSortOrder
+vscode.git.i18n.json,package,config.branchValidationRegex,config.branchValidationRegex
+vscode.git.i18n.json,package,config.branchWhitespaceChar,config.branchWhitespaceChar
+vscode.git.i18n.json,package,config.checkoutType,config.checkoutType
+vscode.git.i18n.json,package,config.checkoutType.local,config.checkoutType.local
+vscode.git.i18n.json,package,config.checkoutType.remote,config.checkoutType.remote
+vscode.git.i18n.json,package,config.checkoutType.tags,config.checkoutType.tags
+vscode.git.i18n.json,package,config.closeDiffOnOperation,config.closeDiffOnOperation
+vscode.git.i18n.json,package,config.commandsToLog,config.commandsToLog
+vscode.git.i18n.json,package,config.commitShortHashLength,config.commitShortHashLength
+vscode.git.i18n.json,package,config.confirmEmptyCommits,config.confirmEmptyCommits
+vscode.git.i18n.json,package,config.confirmForcePush,config.confirmForcePush
+vscode.git.i18n.json,package,config.confirmNoVerifyCommit,config.confirmNoVerifyCommit
+vscode.git.i18n.json,package,config.confirmSync,config.confirmSync
+vscode.git.i18n.json,package,config.countBadge,config.countBadge
+vscode.git.i18n.json,package,config.countBadge.all,config.countBadge.all
+vscode.git.i18n.json,package,config.countBadge.off,config.countBadge.off
+vscode.git.i18n.json,package,config.countBadge.tracked,config.countBadge.tracked
+vscode.git.i18n.json,package,config.decorations.enabled,config.decorations.enabled
+vscode.git.i18n.json,package,config.defaultBranchName,config.defaultBranchName
+vscode.git.i18n.json,package,config.defaultCloneDirectory,config.defaultCloneDirectory
+vscode.git.i18n.json,package,config.detectSubmodules,config.detectSubmodules
+vscode.git.i18n.json,package,config.detectSubmodulesLimit,config.detectSubmodulesLimit
+vscode.git.i18n.json,package,config.detectWorktrees,config.detectWorktrees
+vscode.git.i18n.json,package,config.detectWorktreesLimit,config.detectWorktreesLimit
+vscode.git.i18n.json,package,config.diagnosticsCommitHook.enabled,config.diagnosticsCommitHook.enabled
+vscode.git.i18n.json,package,config.diagnosticsCommitHook.sources,config.diagnosticsCommitHook.sources
+vscode.git.i18n.json,package,config.discardAllScope,config.discardAllScope
+vscode.git.i18n.json,package,config.discardUntrackedChangesToTrash,config.discardUntrackedChangesToTrash
+vscode.git.i18n.json,package,config.enableCommitSigning,config.enableCommitSigning
+vscode.git.i18n.json,package,config.enabled,config.enabled
+vscode.git.i18n.json,package,config.enableSmartCommit,config.enableSmartCommit
+vscode.git.i18n.json,package,config.enableStatusBarSync,config.enableStatusBarSync
+vscode.git.i18n.json,package,config.experimental.installGuide,config.experimental.installGuide
+vscode.git.i18n.json,package,config.fetchOnPull,config.fetchOnPull
+vscode.git.i18n.json,package,config.followTagsWhenSync,config.followTagsWhenSync
+vscode.git.i18n.json,package,config.ignoredRepositories,config.ignoredRepositories
+vscode.git.i18n.json,package,config.ignoreLegacyWarning,config.ignoreLegacyWarning
+vscode.git.i18n.json,package,config.ignoreLimitWarning,config.ignoreLimitWarning
+vscode.git.i18n.json,package,config.ignoreMissingGitWarning,config.ignoreMissingGitWarning
+vscode.git.i18n.json,package,config.ignoreRebaseWarning,config.ignoreRebaseWarning
+vscode.git.i18n.json,package,config.ignoreSubmodules,config.ignoreSubmodules
+vscode.git.i18n.json,package,config.ignoreWindowsGit27Warning,config.ignoreWindowsGit27Warning
+vscode.git.i18n.json,package,config.inputValidation,config.inputValidation
+vscode.git.i18n.json,package,config.inputValidationLength,config.inputValidationLength
+vscode.git.i18n.json,package,config.inputValidationSubjectLength,config.inputValidationSubjectLength
+vscode.git.i18n.json,package,config.mergeEditor,config.mergeEditor
+vscode.git.i18n.json,package,config.openAfterClone,config.openAfterClone
+vscode.git.i18n.json,package,config.openAfterClone.always,config.openAfterClone.always
+vscode.git.i18n.json,package,config.openAfterClone.alwaysNewWindow,config.openAfterClone.alwaysNewWindow
+vscode.git.i18n.json,package,config.openAfterClone.prompt,config.openAfterClone.prompt
+vscode.git.i18n.json,package,config.openAfterClone.whenNoFolderOpen,config.openAfterClone.whenNoFolderOpen
+vscode.git.i18n.json,package,config.openDiffOnClick,config.openDiffOnClick
+vscode.git.i18n.json,package,config.openRepositoryInParentFolders,config.openRepositoryInParentFolders
+vscode.git.i18n.json,package,config.openRepositoryInParentFolders.always,config.openRepositoryInParentFolders.always
+vscode.git.i18n.json,package,config.openRepositoryInParentFolders.never,config.openRepositoryInParentFolders.never
+vscode.git.i18n.json,package,config.openRepositoryInParentFolders.prompt,config.openRepositoryInParentFolders.prompt
+vscode.git.i18n.json,package,config.optimisticUpdate,config.optimisticUpdate
+vscode.git.i18n.json,package,config.path,config.path
+vscode.git.i18n.json,package,config.postCommitCommand,config.postCommitCommand
+vscode.git.i18n.json,package,config.postCommitCommand.none,config.postCommitCommand.none
+vscode.git.i18n.json,package,config.postCommitCommand.push,config.postCommitCommand.push
+vscode.git.i18n.json,package,config.postCommitCommand.sync,config.postCommitCommand.sync
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeCommit,config.promptToSaveFilesBeforeCommit
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeCommit.always,config.promptToSaveFilesBeforeCommit.always
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeCommit.never,config.promptToSaveFilesBeforeCommit.never
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeCommit.staged,config.promptToSaveFilesBeforeCommit.staged
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeStash,config.promptToSaveFilesBeforeStash
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeStash.always,config.promptToSaveFilesBeforeStash.always
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeStash.never,config.promptToSaveFilesBeforeStash.never
+vscode.git.i18n.json,package,config.promptToSaveFilesBeforeStash.staged,config.promptToSaveFilesBeforeStash.staged
+vscode.git.i18n.json,package,config.pruneOnFetch,config.pruneOnFetch
+vscode.git.i18n.json,package,config.publishBeforeContinueOn,config.publishBeforeContinueOn
+vscode.git.i18n.json,package,config.publishBeforeContinueOn.always,config.publishBeforeContinueOn.always
+vscode.git.i18n.json,package,config.publishBeforeContinueOn.never,config.publishBeforeContinueOn.never
+vscode.git.i18n.json,package,config.publishBeforeContinueOn.prompt,config.publishBeforeContinueOn.prompt
+vscode.git.i18n.json,package,config.pullBeforeCheckout,config.pullBeforeCheckout
+vscode.git.i18n.json,package,config.pullTags,config.pullTags
+vscode.git.i18n.json,package,config.rebaseWhenSync,config.rebaseWhenSync
+vscode.git.i18n.json,package,config.rememberPostCommitCommand,config.rememberPostCommitCommand
+vscode.git.i18n.json,package,config.replaceTagsWhenPull,config.replaceTagsWhenPull
+vscode.git.i18n.json,package,config.repositoryScanIgnoredFolders,config.repositoryScanIgnoredFolders
+vscode.git.i18n.json,package,config.repositoryScanMaxDepth,config.repositoryScanMaxDepth
+vscode.git.i18n.json,package,config.requireGitUserConfig,config.requireGitUserConfig
+vscode.git.i18n.json,package,config.scanRepositories,config.scanRepositories
+vscode.git.i18n.json,package,config.showActionButton,config.showActionButton
+vscode.git.i18n.json,package,config.showActionButton.commit,config.showActionButton.commit
+vscode.git.i18n.json,package,config.showActionButton.publish,config.showActionButton.publish
+vscode.git.i18n.json,package,config.showActionButton.sync,config.showActionButton.sync
+vscode.git.i18n.json,package,config.showCommitInput,config.showCommitInput
+vscode.git.i18n.json,package,config.showInlineOpenFileAction,config.showInlineOpenFileAction
+vscode.git.i18n.json,package,config.showProgress,config.showProgress
+vscode.git.i18n.json,package,config.showPushSuccessNotification,config.showPushSuccessNotification
+vscode.git.i18n.json,package,config.showReferenceDetails,config.showReferenceDetails
+vscode.git.i18n.json,package,config.similarityThreshold,config.similarityThreshold
+vscode.git.i18n.json,package,config.smartCommitChanges,config.smartCommitChanges
+vscode.git.i18n.json,package,config.smartCommitChanges.all,config.smartCommitChanges.all
+vscode.git.i18n.json,package,config.smartCommitChanges.tracked,config.smartCommitChanges.tracked
+vscode.git.i18n.json,package,config.statusLimit,config.statusLimit
+vscode.git.i18n.json,package,config.suggestSmartCommit,config.suggestSmartCommit
+vscode.git.i18n.json,package,config.supportCancellation,config.supportCancellation
+vscode.git.i18n.json,package,config.terminalAuthentication,config.terminalAuthentication
+vscode.git.i18n.json,package,config.terminalGitEditor,config.terminalGitEditor
+vscode.git.i18n.json,package,config.timeline.date,config.timeline.date
+vscode.git.i18n.json,package,config.timeline.date.authored,config.timeline.date.authored
+vscode.git.i18n.json,package,config.timeline.date.committed,config.timeline.date.committed
+vscode.git.i18n.json,package,config.timeline.showAuthor,config.timeline.showAuthor
+vscode.git.i18n.json,package,config.timeline.showUncommitted,config.timeline.showUncommitted
+vscode.git.i18n.json,package,config.untrackedChanges,config.untrackedChanges
+vscode.git.i18n.json,package,config.untrackedChanges.hidden,config.untrackedChanges.hidden
+vscode.git.i18n.json,package,config.untrackedChanges.mixed,config.untrackedChanges.mixed
+vscode.git.i18n.json,package,config.untrackedChanges.separate,config.untrackedChanges.separate
+vscode.git.i18n.json,package,config.useCommitInputAsStashMessage,config.useCommitInputAsStashMessage
+vscode.git.i18n.json,package,config.useEditorAsCommitInput,config.useEditorAsCommitInput
+vscode.git.i18n.json,package,config.useForcePushIfIncludes,config.useForcePushIfIncludes
+vscode.git.i18n.json,package,config.useForcePushWithLease,config.useForcePushWithLease
+vscode.git.i18n.json,package,config.useIntegratedAskPass,config.useIntegratedAskPass
+vscode.git.i18n.json,package,config.verboseCommit,config.verboseCommit
+vscode.git.i18n.json,bundle,Conflict: Added By Them,Xung đột: Được thêm bởi họ
+vscode.git.i18n.json,bundle,Conflict: Added By Us,Xung đột: Được thêm vào bởi chúng tôi
+vscode.git.i18n.json,bundle,Conflict: Both Added,Xung đột: Cả hai được thêm vào
+vscode.git.i18n.json,bundle,Conflict: Both Deleted,Xung đột: Cả hai bị xóa
+vscode.git.i18n.json,bundle,Conflict: Both Modified,Xung đột: Cả hai sửa đổi
+vscode.git.i18n.json,bundle,Conflict: Deleted By Them,Xung đột: bị xóa bởi họ
+vscode.git.i18n.json,bundle,Conflict: Deleted By Us,Xung đột: bị chúng tôi xóa
+vscode.git.i18n.json,bundle,Continue Merge,Tiếp tục hợp nhất
+vscode.git.i18n.json,bundle,Continue Rebase,Tiếp tục Rebase
+vscode.git.i18n.json,bundle,Continuing Merge...,Tiếp tục hợp nhất ...
+vscode.git.i18n.json,bundle,Continuing Rebase...,Tiếp tục Rebase ...
+vscode.git.i18n.json,bundle,Copy Commit Hash,Bản sao cam kết băm
+vscode.git.i18n.json,bundle,Could not clone your repository as Git is not installed.,Không thể sao chép kho lưu trữ của bạn vì Git không được cài đặt.
+vscode.git.i18n.json,bundle,Create Empty Commit,Tạo cam kết trống
+vscode.git.i18n.json,bundle,Current,Hiện hành
+vscode.git.i18n.json,bundle,Current commit message only contains whitespace characters,Thông báo cam kết hiện tại chỉ chứa các ký tự khoảng trắng
+vscode.git.i18n.json,bundle,Delete All {0} Files,Delete All {0} Files
+vscode.git.i18n.json,bundle,Delete Branch,Xóa chi nhánh
+vscode.git.i18n.json,bundle,Delete File,Xóa tệp
+vscode.git.i18n.json,bundle,Deleted,Đã xóa
+vscode.git.i18n.json,package,description,Sự miêu tả
+vscode.git.i18n.json,bundle,Discard 1 Tracked File,Loại bỏ 1 tệp theo dõi
+vscode.git.i18n.json,bundle,Discard All {0} Files,Discard All {0} Files
+vscode.git.i18n.json,bundle,Discard All {0} Tracked Files,Discard All {0} Tracked Files
+vscode.git.i18n.json,bundle,Discard File,Loại bỏ tập tin
+vscode.git.i18n.json,package,displayName,DisplayName
+vscode.git.i18n.json,bundle,Don't Pull,Đừng kéo
+vscode.git.i18n.json,bundle,Don't Show Again,Đừng hiển thị lại
+vscode.git.i18n.json,bundle,Download Git,Tải xuống Git
+vscode.git.i18n.json,bundle,Email,E-mail
+vscode.git.i18n.json,bundle,Enables the following features: {0},Enables the following features: {0}
+vscode.git.i18n.json,bundle,"Failed to authenticate to git remote:
+
+{0}","Failed to authenticate to git remote:
+
+{0}"
+vscode.git.i18n.json,bundle,Failed to authenticate to git remote.,Không xác thực với Git Remote.
+vscode.git.i18n.json,bundle,Failed to delete using the Recycle Bin. Do you want to permanently delete instead?,"Không xóa bằng cách sử dụng thùng rác. Thay vào đó, bạn có muốn xóa vĩnh viễn không?"
+vscode.git.i18n.json,bundle,Failed to delete using the Trash. Do you want to permanently delete instead?,"Không xóa bằng cách sử dụng thùng rác. Thay vào đó, bạn có muốn xóa vĩnh viễn không?"
+vscode.git.i18n.json,bundle,"File ""{0}"" was deleted by them and modified by us.
+
+What would you like to do?","File ""{0}"" was deleted by them and modified by us.
+
+What would you like to do?"
+vscode.git.i18n.json,bundle,"File ""{0}"" was deleted by us and modified by them.
+
+What would you like to do?","File ""{0}"" was deleted by us and modified by them.
+
+What would you like to do?"
+vscode.git.i18n.json,bundle,Force Checkout,Thanh toán bằng lực
+vscode.git.i18n.json,bundle,Force Delete,Xóa lực
+vscode.git.i18n.json,bundle,"Force push is not allowed, please enable it with the ""git.allowForcePush"" setting.","Force push is not allowed, please enable it with the ""git.allowForcePush"" setting."
+vscode.git.i18n.json,bundle,Git Blame Information,Git đổ lỗi thông tin
+vscode.git.i18n.json,bundle,Git error,Lỗi Git
+vscode.git.i18n.json,bundle,Git History,Git Lịch sử
+vscode.git.i18n.json,bundle,Git Local Changes (Index),Thay đổi địa phương Git (INDEX)
+vscode.git.i18n.json,bundle,Git Local Changes (Working Tree),Thay đổi địa phương (cây làm việc)
+vscode.git.i18n.json,bundle,"Git not found. Install it or configure it using the ""git.path"" setting.","Git not found. Install it or configure it using the ""git.path"" setting."
+vscode.git.i18n.json,bundle,Git repositories were found in the parent folders of the workspace or the open file(s). Would you like to open the repositories?,Các kho lưu trữ Git đã được tìm thấy trong các thư mục cha mẹ của không gian làm việc hoặc (các) tệp mở. Bạn có muốn mở các kho lưu trữ không?
+vscode.git.i18n.json,bundle,Git: {0},Git: {0}
+vscode.git.i18n.json,bundle,Hard wrap all lines,Làm cứng tất cả các dòng
+vscode.git.i18n.json,bundle,Hard wrap line,Dây bọc cứng
+vscode.git.i18n.json,bundle,"HEAD version of ""{0}"" is not available.","HEAD version of ""{0}"" is not available."
+vscode.git.i18n.json,bundle,Ignored,Bỏ qua
+vscode.git.i18n.json,bundle,in {0},in {0}
+vscode.git.i18n.json,bundle,Incoming,Đến
+vscode.git.i18n.json,bundle,Incoming Changes,Thay đổi đến
+vscode.git.i18n.json,bundle,Incoming Changes (added),Thay đổi đến (được thêm vào)
+vscode.git.i18n.json,bundle,Incoming Changes (deleted),Thay đổi đến (đã xóa)
+vscode.git.i18n.json,bundle,Incoming Changes (modified),Thay đổi đến (sửa đổi)
+vscode.git.i18n.json,bundle,Incoming Changes (renamed),Thay đổi đến (đổi tên)
+vscode.git.i18n.json,bundle,Index Added,Chỉ số được thêm vào
+vscode.git.i18n.json,bundle,Index Copied,Chỉ mục sao chép
+vscode.git.i18n.json,bundle,Index Deleted,Đã xóa chỉ mục
+vscode.git.i18n.json,bundle,Index Modified,Chỉ số sửa đổi
+vscode.git.i18n.json,bundle,Index Renamed,Chỉ số được đổi tên
+vscode.git.i18n.json,bundle,Initialize Repository,Khởi tạo kho lưu trữ
+vscode.git.i18n.json,bundle,Intent to Add,Ý định thêm
+vscode.git.i18n.json,bundle,Intent to Rename,Ý định đổi tên
+vscode.git.i18n.json,bundle,Invalid branch name,Tên chi nhánh không hợp lệ
+vscode.git.i18n.json,bundle,"It looks like the current branch ""{0}"" might have been rebased. Are you sure you still want to pull into it?","It looks like the current branch ""{0}"" might have been rebased. Are you sure you still want to pull into it?"
+vscode.git.i18n.json,bundle,It looks like the current branch might have been rebased. Are you sure you still want to pull into it?,Có vẻ như chi nhánh hiện tại có thể đã được phục hồi. Bạn có chắc bạn vẫn muốn kéo vào nó?
+vscode.git.i18n.json,bundle,It's not possible to change the commit message in the middle of a rebase. Please complete the rebase operation and use interactive rebase instead.,Không thể thay đổi thông điệp cam kết ở giữa một rebase. Vui lòng hoàn thành hoạt động Rebase và sử dụng Rebase tương tác thay thế.
+vscode.git.i18n.json,bundle,Keep Our Version,Giữ phiên bản của chúng tôi
+vscode.git.i18n.json,bundle,Keep Their Version,Giữ phiên bản của họ
+vscode.git.i18n.json,bundle,Learn More,Tìm hiểu thêm
+vscode.git.i18n.json,bundle,"Make sure you configure your ""user.name"" and ""user.email"" in git.","Make sure you configure your ""user.name"" and ""user.email"" in git."
+vscode.git.i18n.json,bundle,Manage Unsafe Repositories,Quản lý kho lưu trữ không an toàn
+vscode.git.i18n.json,bundle,Merge Changes,Hợp nhất thay đổi
+vscode.git.i18n.json,bundle,Message,Tin nhắn
+vscode.git.i18n.json,bundle,"Message ({0} to commit on ""{1}"")","Message ({0} to commit on ""{1}"")"
+vscode.git.i18n.json,bundle,Message ({0} to commit),Message ({0} to commit)
+vscode.git.i18n.json,bundle,"Message (commit on ""{0}"")","Message (commit on ""{0}"")"
+vscode.git.i18n.json,bundle,Migrate Changes,Di chuyển thay đổi
+vscode.git.i18n.json,bundle,Modified,Sửa đổi
+vscode.git.i18n.json,bundle,Move to Recycle Bin,Di chuyển để tái chế thùng
+vscode.git.i18n.json,bundle,Move to Trash,Di chuyển đến thùng rác
+vscode.git.i18n.json,bundle,Never,Không bao giờ
+vscode.git.i18n.json,bundle,no,KHÔNG
+vscode.git.i18n.json,bundle,No,KHÔNG
+vscode.git.i18n.json,bundle,No hunk found at cursor position.,Không tìm thấy hunk ở vị trí con trỏ.
+vscode.git.i18n.json,bundle,No rebase in progress.,Không có rebase trong tiến trình.
+vscode.git.i18n.json,bundle,Not Committed Yet,Chưa cam kết
+vscode.git.i18n.json,bundle,Not Committed Yet (Staged),Chưa cam kết (dàn dựng)
+vscode.git.i18n.json,bundle,now,Hiện nay
+vscode.git.i18n.json,bundle,OK,ĐƯỢC RỒI
+vscode.git.i18n.json,bundle,"OK, Don't Ask Again","Được rồi, đừng hỏi nữa"
+vscode.git.i18n.json,bundle,"OK, Don't Show Again","Được rồi, đừng hiển thị lại"
+vscode.git.i18n.json,bundle,Open,Mở
+vscode.git.i18n.json,bundle,Open Commit,Mở cam kết
+vscode.git.i18n.json,bundle,Open Comparison,So sánh mở
+vscode.git.i18n.json,bundle,Open File,Mở tệp
+vscode.git.i18n.json,bundle,Open Git Log,Mở nhật ký git
+vscode.git.i18n.json,bundle,Open in current window,Mở trong cửa sổ hiện tại
+vscode.git.i18n.json,bundle,Open in new window,Mở trong cửa sổ mới
+vscode.git.i18n.json,bundle,Open in New Window,Mở trong cửa sổ mới
+vscode.git.i18n.json,bundle,Open Merge,Mở hợp nhất
+vscode.git.i18n.json,bundle,Open Repositories In Parent Folders,Mở kho trong các thư mục cha mẹ
+vscode.git.i18n.json,bundle,Open Repository,Kho lưu trữ mở
+vscode.git.i18n.json,bundle,Open Settings,Mở cài đặt
+vscode.git.i18n.json,bundle,Optionally provide a stash message,Tùy chọn cung cấp một tin nhắn stash
+vscode.git.i18n.json,bundle,Passphrase,Cụm cụm
+vscode.git.i18n.json,bundle,Pick a branch to pull from,Chọn một nhánh để kéo từ
+vscode.git.i18n.json,bundle,"Pick a provider to publish the branch ""{0}"" to:","Pick a provider to publish the branch ""{0}"" to:"
+vscode.git.i18n.json,bundle,"Pick a remote to publish the branch ""{0}"" to:","Pick a remote to publish the branch ""{0}"" to:"
+vscode.git.i18n.json,bundle,Pick a remote to pull the branch from,Chọn một điều khiển từ xa để kéo cành từ
+vscode.git.i18n.json,bundle,Pick a remote to remove,Chọn một điều khiển từ xa để loại bỏ
+vscode.git.i18n.json,bundle,Pick a repository to mark as safe and open,Chọn một kho lưu trữ để đánh dấu là an toàn và mở
+vscode.git.i18n.json,bundle,Pick a repository to open,Chọn một kho lưu trữ để mở
+vscode.git.i18n.json,bundle,Pick a repository to reopen,Chọn một kho lưu trữ để mở lại
+vscode.git.i18n.json,bundle,Pick a stash to apply,Chọn một stash để áp dụng
+vscode.git.i18n.json,bundle,Pick a stash to drop,Chọn một stash để thả
+vscode.git.i18n.json,bundle,Pick a stash to pop,Chọn một stash để pop
+vscode.git.i18n.json,bundle,Pick a stash to view,Chọn một stash để xem
+vscode.git.i18n.json,bundle,Pick workspace folder to initialize git repo in,Chọn thư mục không gian làm việc để khởi tạo repo git trong
+vscode.git.i18n.json,bundle,Please check out a branch to push to a remote.,Vui lòng kiểm tra một chi nhánh để đẩy đến một điều khiển từ xa.
+vscode.git.i18n.json,bundle,Please clean your repository working tree before checkout.,Vui lòng làm sạch cây lưu trữ của bạn trước khi thanh toán.
+vscode.git.i18n.json,bundle,Please provide a commit message,Vui lòng cung cấp một tin nhắn cam kết
+vscode.git.i18n.json,bundle,Please provide a message to annotate the tag,Vui lòng cung cấp thông báo để chú thích thẻ
+vscode.git.i18n.json,bundle,Please provide a new branch name,Vui lòng cung cấp một tên chi nhánh mới
+vscode.git.i18n.json,bundle,Please provide a remote name,Vui lòng cung cấp một tên từ xa
+vscode.git.i18n.json,bundle,Please provide a tag name,Vui lòng cung cấp tên thẻ
+vscode.git.i18n.json,bundle,Please provide a worktree name,Vui lòng cung cấp tên Worktree
+vscode.git.i18n.json,bundle,Please provide the commit hash,Vui lòng cung cấp băm cam kết
+vscode.git.i18n.json,bundle,Publish Branch,Xuất bản chi nhánh
+vscode.git.i18n.json,bundle,"Publish Branch ""{0}""/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term","Publish Branch ""{0}""/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term"
+vscode.git.i18n.json,bundle,"Publish Branch/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term","Publish Branch/{Locked=""Branch""}Do not translate ""Branch"" as it is a git term"
+vscode.git.i18n.json,bundle,Publish to {0},Publish to {0}
+vscode.git.i18n.json,bundle,Publish to...,Xuất bản lên ...
+vscode.git.i18n.json,bundle,"Publishing Branch ""{0}"".../{Locked=""Branch""}Do not translate ""Branch"" as it is a git term","Publishing Branch ""{0}"".../{Locked=""Branch""}Do not translate ""Branch"" as it is a git term"
+vscode.git.i18n.json,bundle,"Publishing Branch.../{Locked=""Branch""}Do not translate ""Branch"" as it is a git term","Publishing Branch.../{Locked=""Branch""}Do not translate ""Branch"" as it is a git term"
+vscode.git.i18n.json,bundle,Pull,Sự lôi kéo
+vscode.git.i18n.json,bundle,Pull {0} and push {1} commits between {2}/{3},Pull {0} and push {1} commits between {2}/{3}
+vscode.git.i18n.json,bundle,Pull {0} commits from {1}/{2},Pull {0} commits from {1}/{2}
+vscode.git.i18n.json,bundle,Push {0} commits to {1}/{2},Push {0} commits to {1}/{2}
+vscode.git.i18n.json,bundle,Rebasing,Rebasing
+vscode.git.i18n.json,bundle,Regenerate Branch Name,Tái tạo tên chi nhánh
+vscode.git.i18n.json,bundle,"Remote ""{0}"" already exists.","Remote ""{0}"" already exists."
+vscode.git.i18n.json,bundle,Remote branch at {0},Remote branch at {0}
+vscode.git.i18n.json,bundle,remote branches,nhánh từ xa
+vscode.git.i18n.json,bundle,Remote name,Tên từ xa
+vscode.git.i18n.json,bundle,Remote name format invalid,Định dạng tên từ xa không hợp lệ
+vscode.git.i18n.json,bundle,Remote tag at {0},Remote tag at {0}
+vscode.git.i18n.json,bundle,Reopen Closed Repositories,Mở lại kho đóng cửa
+vscode.git.i18n.json,bundle,Replace Local Tag(s),Thay thế (các) thẻ cục bộ
+vscode.git.i18n.json,bundle,Restore All {0} Files,Restore All {0} Files
+vscode.git.i18n.json,bundle,Restore File,Khôi phục tệp
+vscode.git.i18n.json,bundle,Save All & Commit Changes,Lưu tất cả & cam kết thay đổi
+vscode.git.i18n.json,bundle,Save All & Stash,Lưu tất cả & Stash
+vscode.git.i18n.json,bundle,Select a branch or tag to checkout,Chọn một nhánh hoặc thẻ để thanh toán
+vscode.git.i18n.json,bundle,Select a branch or tag to merge from,Chọn một nhánh hoặc thẻ để hợp nhất từ
+vscode.git.i18n.json,bundle,Select a branch to checkout in detached mode,Chọn một nhánh để thanh toán ở chế độ tách rời
+vscode.git.i18n.json,bundle,Select a branch to create the new worktree from,Chọn một nhánh để tạo ra bàn làm việc mới từ
+vscode.git.i18n.json,bundle,Select a branch to delete,Chọn một nhánh để xóa
+vscode.git.i18n.json,bundle,Select a branch to rebase onto,Chọn một chi nhánh để rebase vào
+vscode.git.i18n.json,bundle,Select a ref to create the branch from,Chọn một ref để tạo chi nhánh từ
+vscode.git.i18n.json,bundle,Select a remote branch to delete,Chọn một nhánh từ xa để xóa
+vscode.git.i18n.json,bundle,Select a remote tag to delete,Chọn thẻ từ xa để xóa
+vscode.git.i18n.json,bundle,Select a remote to delete a tag from,Chọn điều khiển từ xa để xóa thẻ từ
+vscode.git.i18n.json,bundle,Select a remote to fetch,Chọn một điều khiển từ xa để tìm nạp
+vscode.git.i18n.json,bundle,Select a tag to delete,Chọn thẻ để xóa
+vscode.git.i18n.json,bundle,Select a worktree to delete,Chọn một bàn làm việc để xóa
+vscode.git.i18n.json,bundle,Select as Repository Destination,Chọn làm điểm đến kho lưu trữ
+vscode.git.i18n.json,bundle,Select as Worktree Destination,Chọn làm điểm đến làm việc
+vscode.git.i18n.json,bundle,Show Changes,Hiển thị các thay đổi
+vscode.git.i18n.json,bundle,Show Command Output,Hiển thị đầu ra lệnh
+vscode.git.i18n.json,bundle,Staged Changes,Thay đổi giai đoạn
+vscode.git.i18n.json,bundle,Stash & Checkout,Stash & Thanh toán
+vscode.git.i18n.json,bundle,Stash Anyway,Dù sao đi nữa
+vscode.git.i18n.json,bundle,Stash message,Thông báo stash
+vscode.git.i18n.json,bundle,Stashed Changes,Stashed thay đổi
+vscode.git.i18n.json,package,submenu.branch,submenu.branch
+vscode.git.i18n.json,package,submenu.changes,submenu.changes
+vscode.git.i18n.json,package,submenu.commit,submenu.commit
+vscode.git.i18n.json,package,submenu.commit.amend,submenu.commit.amend
+vscode.git.i18n.json,package,submenu.commit.signoff,submenu.commit.signoff
+vscode.git.i18n.json,package,submenu.explorer,submenu.explorer
+vscode.git.i18n.json,package,submenu.pullpush,submenu.pullpush
+vscode.git.i18n.json,package,submenu.remotes,submenu.remotes
+vscode.git.i18n.json,package,submenu.stash,submenu.stash
+vscode.git.i18n.json,package,submenu.tags,submenu.tags
+vscode.git.i18n.json,package,submenu.worktrees,submenu.worktrees
+vscode.git.i18n.json,bundle,Successfully pushed.,Thành công đẩy.
+vscode.git.i18n.json,bundle,Synchronize Changes,Đồng bộ hóa thay đổi
+vscode.git.i18n.json,bundle,Synchronizing Changes...,Đồng bộ hóa các thay đổi ...
+vscode.git.i18n.json,bundle,Syncing. Cancelling may cause serious damages to the repository,Đồng bộ hóa. Hủy bỏ có thể gây ra thiệt hại nghiêm trọng cho kho lưu trữ
+vscode.git.i18n.json,bundle,Tag at {0},Tag at {0}
+vscode.git.i18n.json,bundle,Tag name,Tên thẻ
+vscode.git.i18n.json,bundle,tags,Tags
+vscode.git.i18n.json,bundle,"The ""{0}"" repository has {1} submodules which won't be opened automatically. You can still open each one individually by opening a file within.","The ""{0}"" repository has {1} submodules which won't be opened automatically. You can still open each one individually by opening a file within."
+vscode.git.i18n.json,bundle,"The ""{0}"" repository has {1} worktrees which won't be opened automatically. You can still open each one individually by opening a file within.","The ""{0}"" repository has {1} worktrees which won't be opened automatically. You can still open each one individually by opening a file within."
+vscode.git.i18n.json,bundle,The active branch cannot be deleted.,Chi nhánh hoạt động không thể bị xóa.
+vscode.git.i18n.json,bundle,"The branch ""{0}"" has no remote branch. Would you like to publish this branch?","The branch ""{0}"" has no remote branch. Would you like to publish this branch?"
+vscode.git.i18n.json,bundle,"The branch ""{0}"" is not fully merged. Delete anyway?","The branch ""{0}"" is not fully merged. Delete anyway?"
+vscode.git.i18n.json,bundle,The changes are already present in the current branch.,Những thay đổi đã có mặt trong nhánh hiện tại.
+vscode.git.i18n.json,bundle,The current branch is not published to the remote. Would you like to publish it to access your changes elsewhere?,Chi nhánh hiện tại không được công bố đến điều khiển từ xa. Bạn có muốn xuất bản nó để truy cập các thay đổi của bạn ở nơi khác không?
+vscode.git.i18n.json,bundle,"The following file has unresolved diagnostics: '{0}'.
+
+How would you like to proceed?","The following file has unresolved diagnostics: '{0}'.
+
+How would you like to proceed?"
+vscode.git.i18n.json,bundle,"The following file has unsaved changes which won't be included in the commit if you proceed: {0}.
+
+Would you like to save it before committing?","The following file has unsaved changes which won't be included in the commit if you proceed: {0}.
+
+Would you like to save it before committing?"
+vscode.git.i18n.json,bundle,"The following file has unsaved changes which won't be included in the stash if you proceed: {0}.
+
+Would you like to save it before stashing?","The following file has unsaved changes which won't be included in the stash if you proceed: {0}.
+
+Would you like to save it before stashing?"
+vscode.git.i18n.json,bundle,The git repositories in the current folder are potentially unsafe as the folders are owned by someone other than the current user.,Các kho lưu trữ Git trong thư mục hiện tại có khả năng không an toàn vì các thư mục được sở hữu bởi một người khác ngoài người dùng hiện tại.
+vscode.git.i18n.json,bundle,"The git repository at ""{0}"" has too many active changes, only a subset of Git features will be enabled.","The git repository at ""{0}"" has too many active changes, only a subset of Git features will be enabled."
+vscode.git.i18n.json,bundle,The git repository in the current folder is potentially unsafe as the folder is owned by someone other than the current user.,Kho lưu trữ Git trong thư mục hiện tại có khả năng không an toàn vì thư mục được sở hữu bởi một người khác ngoài người dùng hiện tại.
+vscode.git.i18n.json,bundle,The last commit was a merge commit. Are you sure you want to undo it?,Cam kết cuối cùng là một cam kết hợp nhất. Bạn có chắc là bạn muốn hoàn tác nó?
+vscode.git.i18n.json,bundle,"The new branch will be ""{0}""","The new branch will be ""{0}"""
+vscode.git.i18n.json,bundle,The remote branch of the active branch cannot be deleted.,Nhánh từ xa của nhánh hoạt động không thể bị xóa.
+vscode.git.i18n.json,bundle,The repository does not have any changes.,Kho lưu trữ không có bất kỳ thay đổi.
+vscode.git.i18n.json,bundle,The repository does not have any commits. Please make an initial commit before creating a stash.,Kho lưu trữ không có bất kỳ cam kết. Vui lòng thực hiện một cam kết ban đầu trước khi tạo một stash.
+vscode.git.i18n.json,bundle,The repository does not have any staged changes.,Kho lưu trữ không có bất kỳ thay đổi giai đoạn nào.
+vscode.git.i18n.json,bundle,The repository does not have any untracked changes.,Kho lưu trữ không có bất kỳ thay đổi chưa được kiểm soát.
+vscode.git.i18n.json,bundle,The selection range does not contain any changes.,Phạm vi lựa chọn không chứa bất kỳ thay đổi nào.
+vscode.git.i18n.json,bundle,The worktree contains modified or untracked files. Do you want to force delete?,Worktree chứa các tập tin sửa đổi hoặc chưa được kiểm soát. Bạn có muốn buộc xóa?
+vscode.git.i18n.json,bundle,"There are {0} files that have unresolved diagnostics.
+
+How would you like to proceed?","There are {0} files that have unresolved diagnostics.
+
+How would you like to proceed?"
+vscode.git.i18n.json,bundle,"There are {0} unsaved files.
+
+Would you like to save them before committing?","There are {0} unsaved files.
+
+Would you like to save them before committing?"
+vscode.git.i18n.json,bundle,"There are {0} unsaved files.
+
+Would you like to save them before stashing?","There are {0} unsaved files.
+
+Would you like to save them before stashing?"
+vscode.git.i18n.json,bundle,"There are known issues with the installed Git ""{0}"". Please update to Git >= 2.27 for the git features to work correctly.","There are known issues with the installed Git ""{0}"". Please update to Git >= 2.27 for the git features to work correctly."
+vscode.git.i18n.json,bundle,There are merge conflicts while applying the stash. Please resolve them before committing your changes.,Có xung đột hợp nhất trong khi áp dụng stash. Vui lòng giải quyết chúng trước khi thực hiện các thay đổi của bạn.
+vscode.git.i18n.json,bundle,There are merge conflicts. Please resolve them before committing your changes.,Có xung đột hợp nhất. Vui lòng giải quyết chúng trước khi thực hiện các thay đổi của bạn.
+vscode.git.i18n.json,bundle,There are no available repositories,Không có kho lưu trữ có sẵn
+vscode.git.i18n.json,bundle,There are no available repositories matching the filter,Không có kho lưu trữ có sẵn phù hợp với bộ lọc
+vscode.git.i18n.json,bundle,There are no changes to commit.,Không có thay đổi để cam kết.
+vscode.git.i18n.json,bundle,There are no changes to stash.,Không có thay đổi để stash.
+vscode.git.i18n.json,bundle,"There are no staged changes to commit.
+
+Would you like to stage all your changes and commit them directly?",Không có thay đổi được dàn dựng để cam kết. Bạn có muốn trình diễn tất cả các thay đổi của bạn và cam kết trực tiếp không?
+vscode.git.i18n.json,bundle,There are no staged changes to stash.,Không có thay đổi được dàn dựng để stash.
+vscode.git.i18n.json,bundle,There are no stashes in the repository.,Không có stash trong kho lưu trữ.
+vscode.git.i18n.json,bundle,There were merge conflicts while cherry picking the changes. Resolve the conflicts before committing them.,Có những xung đột hợp nhất trong khi anh đào chọn những thay đổi. Giải quyết các xung đột trước khi cam kết chúng.
+vscode.git.i18n.json,bundle,"This action will pull and push commits from and to ""{0}/{1}"".","This action will pull and push commits from and to ""{0}/{1}""."
+vscode.git.i18n.json,bundle,"This is IRREVERSIBLE!
+These files will be FOREVER LOST if you proceed.",Điều này là không thể đảo ngược! Những tập tin này sẽ bị mất mãi mãi nếu bạn tiến hành.
+vscode.git.i18n.json,bundle,"This is IRREVERSIBLE!
+This file will be FOREVER LOST if you proceed.",Điều này là không thể đảo ngược! Tệp này sẽ bị mất mãi mãi nếu bạn tiến hành.
+vscode.git.i18n.json,bundle,This repository has no remotes configured to fetch from.,Kho lưu trữ này không có từ xa được cấu hình để tìm nạp từ.
+vscode.git.i18n.json,bundle,"This will create a Git repository in ""{0}"". Are you sure you want to continue?","This will create a Git repository in ""{0}"". Are you sure you want to continue?"
+vscode.git.i18n.json,bundle,Too many changes were detected. Only the first {0} changes will be shown below.,Too many changes were detected. Only the first {0} changes will be shown below.
+vscode.git.i18n.json,bundle,Type Changed,Loại đã thay đổi
+vscode.git.i18n.json,bundle,Unable to pull from remote repository due to conflicting tag(s): {0}. Would you like to resolve the conflict by replacing the local tag(s)?,Unable to pull from remote repository due to conflicting tag(s): {0}. Would you like to resolve the conflict by replacing the local tag(s)?
+vscode.git.i18n.json,bundle,Uncommitted Changes,Những thay đổi không cam kết
+vscode.git.i18n.json,bundle,Undo merge commit,Hoàn tác hợp nhất cam kết
+vscode.git.i18n.json,bundle,Untracked,Không bị trói buộc
+vscode.git.i18n.json,bundle,Untracked Changes,Không thay đổi thay đổi
+vscode.git.i18n.json,bundle,Update Git,Cập nhật git
+vscode.git.i18n.json,bundle,View Problems,Xem vấn đề
+vscode.git.i18n.json,package,view.workbench.cloneRepository,view.workbench.cloneRepository
+vscode.git.i18n.json,package,view.workbench.learnMore,view.workbench.learnMore
+vscode.git.i18n.json,package,view.workbench.scm.closedRepositories,view.workbench.scm.closedRepositories
+vscode.git.i18n.json,package,view.workbench.scm.closedRepository,view.workbench.scm.closedRepository
+vscode.git.i18n.json,package,view.workbench.scm.disabled,view.workbench.scm.disabled
+vscode.git.i18n.json,package,view.workbench.scm.empty,view.workbench.scm.empty
+vscode.git.i18n.json,package,view.workbench.scm.emptyWorkspace,view.workbench.scm.emptyWorkspace
+vscode.git.i18n.json,package,view.workbench.scm.folder,view.workbench.scm.folder
+vscode.git.i18n.json,package,view.workbench.scm.missing,view.workbench.scm.missing
+vscode.git.i18n.json,package,view.workbench.scm.missing.linux,view.workbench.scm.missing.linux
+vscode.git.i18n.json,package,view.workbench.scm.missing.mac,view.workbench.scm.missing.mac
+vscode.git.i18n.json,package,view.workbench.scm.missing.windows,view.workbench.scm.missing.windows
+vscode.git.i18n.json,package,view.workbench.scm.repositoriesInParentFolders,view.workbench.scm.repositoriesInParentFolders
+vscode.git.i18n.json,package,view.workbench.scm.repositoryInParentFolders,view.workbench.scm.repositoryInParentFolders
+vscode.git.i18n.json,package,view.workbench.scm.scanFolderForRepositories,view.workbench.scm.scanFolderForRepositories
+vscode.git.i18n.json,package,view.workbench.scm.scanWorkspaceForRepositories,view.workbench.scm.scanWorkspaceForRepositories
+vscode.git.i18n.json,package,view.workbench.scm.unsafeRepositories,view.workbench.scm.unsafeRepositories
+vscode.git.i18n.json,package,view.workbench.scm.unsafeRepository,view.workbench.scm.unsafeRepository
+vscode.git.i18n.json,package,view.workbench.scm.workspace,view.workbench.scm.workspace
+vscode.git.i18n.json,bundle,Worktree name,Tên làm việc
+vscode.git.i18n.json,bundle,"Would you like {0} to [periodically run ""git fetch""]({1})?","Would you like {0} to [periodically run ""git fetch""]({1})?"
+vscode.git.i18n.json,bundle,"Would you like to add ""{0}"" to .gitignore?","Would you like to add ""{0}"" to .gitignore?"
+vscode.git.i18n.json,bundle,"Would you like to open the cloned repository, or add it to the current workspace?","Bạn có muốn mở kho lưu trữ nhân bản, hoặc thêm nó vào không gian làm việc hiện tại?"
+vscode.git.i18n.json,bundle,Would you like to open the cloned repository?,Bạn có muốn mở kho lưu trữ nhân bản không?
+vscode.git.i18n.json,bundle,"Would you like to open the initialized repository, or add it to the current workspace?",Bạn có muốn mở kho lưu trữ khởi tạo hoặc thêm nó vào không gian làm việc hiện tại không?
+vscode.git.i18n.json,bundle,Would you like to open the initialized repository?,Bạn có muốn mở kho lưu trữ khởi tạo không?
+vscode.git.i18n.json,bundle,Would you like to publish this repository to continue working on it elsewhere?,Bạn có muốn xuất bản kho lưu trữ này để tiếp tục làm việc ở nơi khác không?
+vscode.git.i18n.json,bundle,yes,Đúng
+vscode.git.i18n.json,bundle,Yes,Đúng
+vscode.git.i18n.json,bundle,"Yes, Don't Show Again","Vâng, đừng hiển thị lại"
+vscode.git.i18n.json,bundle,You,Bạn
+vscode.git.i18n.json,bundle,"You are about to commit your changes without verification, this skips pre-commit hooks and can be undesirable.
+
+Are you sure to continue?","Bạn sắp thực hiện các thay đổi của mình mà không cần xác minh, điều này bỏ qua các móc cam kết trước và có thể không mong muốn. Bạn có chắc chắn sẽ tiếp tục?"
+vscode.git.i18n.json,bundle,"You are about to force push your changes, this can be destructive and could inadvertently overwrite changes made by others.
+
+Are you sure to continue?","Bạn sắp buộc phải thúc đẩy những thay đổi của mình, điều này có thể phá hủy và có thể vô tình ghi đè lên những thay đổi được thực hiện bởi người khác. Bạn có chắc chắn sẽ tiếp tục?"
+vscode.git.i18n.json,bundle,"You are trying to commit to a protected branch and you might not have permission to push your commits to the remote.
+
+How would you like to proceed?",Bạn đang cố gắng cam kết với một nhánh được bảo vệ và bạn có thể không được phép đẩy các cam kết của bạn đến điều khiển từ xa. Bạn muốn tiến hành như thế nào?
+vscode.git.i18n.json,bundle,You can restore these files from the Recycle Bin.,Bạn có thể khôi phục các tệp này từ thùng rác.
+vscode.git.i18n.json,bundle,You can restore these files from the Trash.,Bạn có thể khôi phục các tệp này từ thùng rác.
+vscode.git.i18n.json,bundle,You can restore this file from the Recycle Bin.,Bạn có thể khôi phục tệp này từ thùng rác.
+vscode.git.i18n.json,bundle,You can restore this file from the Trash.,Bạn có thể khôi phục tệp này từ thùng rác.
+vscode.git.i18n.json,bundle,"You seem to have git ""{0}"" installed. Code works best with git >= 2","You seem to have git ""{0}"" installed. Code works best with git >= 2"
+vscode.git.i18n.json,bundle,Your local changes would be overwritten by checkout.,Những thay đổi cục bộ của bạn sẽ được ghi đè bằng cách thanh toán.
+vscode.git.i18n.json,bundle,Your repository has no remotes configured to publish to.,Kho lưu trữ của bạn không có từ xa được cấu hình để xuất bản.
+vscode.git.i18n.json,bundle,Your repository has no remotes configured to pull from.,Kho lưu trữ của bạn không có từ xa được cấu hình để kéo từ.
+vscode.git.i18n.json,bundle,Your repository has no remotes configured to push to.,Kho lưu trữ của bạn không có từ xa được cấu hình để đẩy đến.
+vscode.git.i18n.json,bundle,Your repository has no remotes.,Kho lưu trữ của bạn không có điều khiển từ xa.

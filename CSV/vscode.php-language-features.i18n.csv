@@ -1,0 +1,16 @@
+"﻿""file""",scope,key,value_zh
+vscode.php-language-features.i18n.json,bundle,Cannot validate since {0} is not a valid php executable. Use the setting 'php.validate.executablePath' to configure the PHP executable.,Cannot validate since {0} is not a valid php executable. Use the setting 'php.validate.executablePath' to configure the PHP executable.
+vscode.php-language-features.i18n.json,bundle,Cannot validate since a PHP installation could not be found. Use the setting 'php.validate.executablePath' to configure the PHP executable.,Cannot validate since a PHP installation could not be found. Use the setting 'php.validate.executablePath' to configure the PHP executable.
+vscode.php-language-features.i18n.json,bundle,Cannot validate since no PHP executable is set. Use the setting 'php.validate.executablePath' to configure the PHP executable.,Cannot validate since no PHP executable is set. Use the setting 'php.validate.executablePath' to configure the PHP executable.
+vscode.php-language-features.i18n.json,package,command.untrustValidationExecutable,command.untrustValidationExecutable
+vscode.php-language-features.i18n.json,package,commands.categroy.php,commands.categroy.php
+vscode.php-language-features.i18n.json,package,configuration.suggest.basic,configuration.suggest.basic
+vscode.php-language-features.i18n.json,package,configuration.title,configuration.title
+vscode.php-language-features.i18n.json,package,configuration.validate.enable,configuration.validate.enable
+vscode.php-language-features.i18n.json,package,configuration.validate.executablePath,configuration.validate.executablePath
+vscode.php-language-features.i18n.json,package,configuration.validate.run,configuration.validate.run
+vscode.php-language-features.i18n.json,package,description,Sự miêu tả
+vscode.php-language-features.i18n.json,package,displayName,DisplayName
+vscode.php-language-features.i18n.json,bundle,Failed to run php using path: {0}. Reason is unknown.,Failed to run php using path: {0}. Reason is unknown.
+vscode.php-language-features.i18n.json,bundle,Open Settings,Mở cài đặt
+vscode.php-language-features.i18n.json,package,workspaceTrust,WorkSpaceTrust

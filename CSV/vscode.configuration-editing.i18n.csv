@@ -1,0 +1,62 @@
+"﻿""file""",scope,key,value_zh
+vscode.configuration-editing.i18n.json,bundle,a conditional separator (' - ') that only shows when surrounded by variables with values,một phân tách có điều kiện (' -') chỉ hiển thị khi được bao quanh bởi các biến có giá trị
+vscode.configuration-editing.i18n.json,bundle,an indicator for when the active editor has unsaved changes,một chỉ báo cho khi trình chỉnh sửa hoạt động đã thay đổi chưa được lưu
+vscode.configuration-editing.i18n.json,package,description,Sự miêu tả
+vscode.configuration-editing.i18n.json,package,displayName,DisplayName
+vscode.configuration-editing.i18n.json,bundle,e.g. SSH,e.g. SSH
+vscode.configuration-editing.i18n.json,bundle,e.g. VS Code,e.g. VS Code
+vscode.configuration-editing.i18n.json,bundle,Example,Ví dụ
+vscode.configuration-editing.i18n.json,bundle,file path of the workspace (e.g. /Users/Development/myWorkspace),file path of the workspace (e.g. /Users/Development/myWorkspace)
+vscode.configuration-editing.i18n.json,bundle,file path of the workspace folder the file is contained in (e.g. /Users/Development/myFolder),file path of the workspace folder the file is contained in (e.g. /Users/Development/myFolder)
+vscode.configuration-editing.i18n.json,bundle,Files by Extension,Tập tin bằng cách mở rộng
+vscode.configuration-editing.i18n.json,bundle,Files with Extension,Tập tin với phần mở rộng
+vscode.configuration-editing.i18n.json,bundle,Files with Multiple Extensions,Các tệp có nhiều tiện ích mở rộng
+vscode.configuration-editing.i18n.json,bundle,Files with Path,Tập tin với đường dẫn
+vscode.configuration-editing.i18n.json,bundle,Files with Siblings by Name,Tệp với anh chị em theo tên
+vscode.configuration-editing.i18n.json,bundle,Folder by Name (Any Location),Thư mục theo tên (bất kỳ vị trí nào)
+vscode.configuration-editing.i18n.json,bundle,Folder by Name (Top Level),Thư mục theo tên (cấp cao nhất)
+vscode.configuration-editing.i18n.json,bundle,Folders with Multiple Names (Top Level),Các thư mục có nhiều tên (cấp cao nhất)
+vscode.configuration-editing.i18n.json,bundle,gist,ý chính
+vscode.configuration-editing.i18n.json,bundle,GitHub,Girub
+vscode.configuration-editing.i18n.json,bundle,Map all files matching the absolute path glob pattern in their path to the language with the given identifier.,Ánh xạ tất cả các tệp khớp với mẫu GLOB đường dẫn tuyệt đối theo đường dẫn của chúng đến ngôn ngữ với định danh đã cho.
+vscode.configuration-editing.i18n.json,bundle,Map all files matching the glob pattern in their filename to the language with the given identifier.,Ánh xạ tất cả các tệp khớp với mẫu GLOB trong tên tệp của chúng với ngôn ngữ với định danh đã cho.
+vscode.configuration-editing.i18n.json,bundle,Match a folder with a specific name in any location.,Khớp một thư mục với một tên cụ thể ở bất kỳ vị trí nào.
+vscode.configuration-editing.i18n.json,bundle,Match a top level folder with a specific name.,Ghép một thư mục cấp cao nhất với một tên cụ thể.
+vscode.configuration-editing.i18n.json,bundle,Match all files of a specific file extension.,Khớp với tất cả các tệp của một phần mở rộng tệp cụ thể.
+vscode.configuration-editing.i18n.json,bundle,Match all files with any of the file extensions.,Ghép tất cả các tệp với bất kỳ phần mở rộng tệp nào.
+vscode.configuration-editing.i18n.json,bundle,Match files that have siblings with the same name but a different extension.,Khớp các tệp có anh chị em có cùng tên nhưng một phần mở rộng khác.
+vscode.configuration-editing.i18n.json,bundle,Match multiple top level folders.,Kết hợp nhiều thư mục cấp cao nhất.
+vscode.configuration-editing.i18n.json,bundle,name of the workspace folder the file is contained in (e.g. myFolder),name of the workspace folder the file is contained in (e.g. myFolder)
+vscode.configuration-editing.i18n.json,bundle,"name of the workspace with optional remote name and workspace indicator if applicable (e.g. myFolder, myRemoteFolder [SSH] or myWorkspace (Workspace))","name of the workspace with optional remote name and workspace indicator if applicable (e.g. myFolder, myRemoteFolder [SSH] or myWorkspace (Workspace))"
+vscode.configuration-editing.i18n.json,bundle,shortened name of the workspace without suffixes (e.g. myFolder or myWorkspace),shortened name of the workspace without suffixes (e.g. myFolder or myWorkspace)
+vscode.configuration-editing.i18n.json,bundle,The character used by the operating system to separate components in file paths. Is also aliased to '/'.,The character used by the operating system to separate components in file paths. Is also aliased to '/'.
+vscode.configuration-editing.i18n.json,bundle,The current opened file,Tệp đã mở hiện tại
+vscode.configuration-editing.i18n.json,bundle,The current opened file relative to ${workspaceFolder},Tệp đã mở hiện tại liên quan đến $ {WorkSpaceFolder}
+vscode.configuration-editing.i18n.json,bundle,The current opened file workspace folder name without any slashes (/),The current opened file workspace folder name without any slashes (/)
+vscode.configuration-editing.i18n.json,bundle,The current opened file's basename,Tên cơ sở của tệp đã mở hiện tại
+vscode.configuration-editing.i18n.json,bundle,The current opened file's basename with no file extension,Tên tệp hiện tại đã mở tên cơ sở không có phần mở rộng tệp
+vscode.configuration-editing.i18n.json,bundle,The current opened file's dirname,Tên tệp đã mở hiện tại
+vscode.configuration-editing.i18n.json,bundle,The current opened file's dirname relative to ${workspaceFolder},Tên tệp hiện tại đã mở liên quan đến $ {WorkSpaceFolder}
+vscode.configuration-editing.i18n.json,bundle,The current opened file's extension,Phần mở rộng của tệp đã mở
+vscode.configuration-editing.i18n.json,bundle,The current opened file's folder name,Tên thư mục tệp đã mở hiện tại
+vscode.configuration-editing.i18n.json,bundle,The current selected line number in the active file,Số dòng được chọn hiện tại trong tệp hoạt động
+vscode.configuration-editing.i18n.json,bundle,The current selected text in the active file,Văn bản được chọn hiện tại trong tệp đang hoạt động
+vscode.configuration-editing.i18n.json,bundle,The file extension of the editor (e.g. txt),The file extension of the editor (e.g. txt)
+vscode.configuration-editing.i18n.json,bundle,the file name (e.g. myFile.txt),the file name (e.g. myFile.txt)
+vscode.configuration-editing.i18n.json,bundle,The file name of the editor without its directory or extension (e.g. myFile),The file name of the editor without its directory or extension (e.g. myFile)
+vscode.configuration-editing.i18n.json,bundle,the full path of the file (e.g. /Users/Development/myFolder/myFileFolder/myFile.txt),the full path of the file (e.g. /Users/Development/myFolder/myFileFolder/myFile.txt)
+vscode.configuration-editing.i18n.json,bundle,the full path of the folder the file is contained in (e.g. /Users/Development/myFolder/myFileFolder),the full path of the folder the file is contained in (e.g. /Users/Development/myFolder/myFileFolder)
+vscode.configuration-editing.i18n.json,bundle,the name of the active branch in the active repository (e.g. main),the name of the active branch in the active repository (e.g. main)
+vscode.configuration-editing.i18n.json,bundle,the name of the active repository (e.g. vscode),the name of the active repository (e.g. vscode)
+vscode.configuration-editing.i18n.json,bundle,The name of the default build task. If there is not a single default build task then a quick pick is shown to choose the build task.,Tên của tác vụ xây dựng mặc định. Nếu không có một tác vụ xây dựng mặc định nào thì một lựa chọn nhanh được hiển thị để chọn tác vụ xây dựng.
+vscode.configuration-editing.i18n.json,bundle,The name of the folder opened in VS Code without any slashes (/),The name of the folder opened in VS Code without any slashes (/)
+vscode.configuration-editing.i18n.json,bundle,the name of the folder the file is contained in (e.g. myFileFolder),the name of the folder the file is contained in (e.g. myFileFolder)
+vscode.configuration-editing.i18n.json,bundle,The nth parent folder name of the editor,Tên thư mục phụ huynh thứ n của trình soạn thảo
+vscode.configuration-editing.i18n.json,bundle,The parent folder name of the editor (e.g. myFileFolder),The parent folder name of the editor (e.g. myFileFolder)
+vscode.configuration-editing.i18n.json,bundle,the path of the file relative to the workspace folder (e.g. myFolder/myFileFolder/myFile.txt),the path of the file relative to the workspace folder (e.g. myFolder/myFileFolder/myFile.txt)
+vscode.configuration-editing.i18n.json,bundle,The path of the folder opened in VS Code,Đường dẫn của thư mục được mở trong mã vs
+vscode.configuration-editing.i18n.json,bundle,"the path of the folder the file is contained in, relative to the workspace folder (e.g. myFolder/myFileFolder)","the path of the folder the file is contained in, relative to the workspace folder (e.g. myFolder/myFileFolder)"
+vscode.configuration-editing.i18n.json,bundle,The path where an extension is installed.,Đường dẫn nơi một phần mở rộng được cài đặt.
+vscode.configuration-editing.i18n.json,bundle,the state of the active editor (e.g. modified).,the state of the active editor (e.g. modified).
+vscode.configuration-editing.i18n.json,bundle,The task runner's current working directory on startup,Thư mục làm việc hiện tại của người chạy bộ khi khởi động
+vscode.configuration-editing.i18n.json,bundle,Use the language of the currently active text editor if any,Sử dụng ngôn ngữ của trình chỉnh sửa văn bản hiện đang hoạt động nếu có

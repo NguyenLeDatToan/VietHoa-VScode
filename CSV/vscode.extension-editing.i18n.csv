@@ -1,0 +1,18 @@
+"﻿""file""",scope,key,value_zh
+vscode.extension-editing.i18n.json,bundle,Data URLs are not a valid image source.,URL dữ liệu không phải là một nguồn hình ảnh hợp lệ.
+vscode.extension-editing.i18n.json,package,description,Sự miêu tả
+vscode.extension-editing.i18n.json,package,displayName,DisplayName
+vscode.extension-editing.i18n.json,bundle,Embedded SVGs are not a valid image source.,SVGs nhúng không phải là một nguồn hình ảnh hợp lệ.
+vscode.extension-editing.i18n.json,bundle,Error parsing the when-clause:,Lỗi phân tích phân tích mệnh đề khi nào:
+vscode.extension-editing.i18n.json,bundle,Images must use the HTTPS protocol.,Hình ảnh phải sử dụng giao thức HTTPS.
+vscode.extension-editing.i18n.json,bundle,Language specific editor settings,Cài đặt trình soạn thảo cụ thể ngôn ngữ
+vscode.extension-editing.i18n.json,bundle,Override editor settings for language,Ghi đè cài đặt trình soạn thảo cho ngôn ngữ
+vscode.extension-editing.i18n.json,bundle,Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.,Relative badge URLs require a repository with HTTPS protocol to be specified in this package.json.
+vscode.extension-editing.i18n.json,bundle,Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.,Relative image URLs require a repository with HTTPS protocol to be specified in the package.json.
+vscode.extension-editing.i18n.json,bundle,Remove activation event,Loại bỏ sự kiện kích hoạt
+vscode.extension-editing.i18n.json,bundle,SVGs are not a valid image source.,SVG không phải là một nguồn hình ảnh hợp lệ.
+vscode.extension-editing.i18n.json,bundle,This activation event can be removed as VS Code generates these automatically from your package.json contribution declarations.,This activation event can be removed as VS Code generates these automatically from your package.json contribution declarations.
+vscode.extension-editing.i18n.json,bundle,This activation event can be removed for extensions targeting engine version ^1.75 as VS Code will generate these automatically from your package.json contribution declarations.,This activation event can be removed for extensions targeting engine version ^1.75 as VS Code will generate these automatically from your package.json contribution declarations.
+vscode.extension-editing.i18n.json,bundle,This activation event cannot be explicitly listed by your extension.,Sự kiện kích hoạt này không thể được liệt kê rõ ràng bởi tiện ích mở rộng của bạn.
+vscode.extension-editing.i18n.json,bundle,This proposal cannot be used because for this extension the product defines a fixed set of API proposals. You can test your extension but before publishing you MUST reach out to the VS Code team.,"Đề xuất này không thể được sử dụng vì đối với phần mở rộng này, sản phẩm xác định một tập hợp các đề xuất API cố định. Bạn có thể kiểm tra tiện ích mở rộng của mình nhưng trước khi xuất bản, bạn phải liên hệ với nhóm mã VS."
+vscode.extension-editing.i18n.json,bundle,Using '*' activation is usually a bad idea as it impacts performance.,Sử dụng kích hoạt '*' thường là một ý tưởng tồi vì nó tác động đến hiệu suất.

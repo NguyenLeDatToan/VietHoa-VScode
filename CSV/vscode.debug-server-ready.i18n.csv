@@ -1,0 +1,16 @@
+"﻿""file""",scope,key,value_zh
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.action.debugWithChrome.description,debug.server.ready.action.debugWithChrome.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.action.description,debug.server.ready.action.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.action.openExternally.description,debug.server.ready.action.openExternally.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.action.startDebugging.description,debug.server.ready.action.startDebugging.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.debugConfig.description,debug.server.ready.debugConfig.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.debugConfigName.description,debug.server.ready.debugConfigName.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.killOnServerStop.description,debug.server.ready.killOnServerStop.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.pattern.description,debug.server.ready.pattern.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.serverReadyAction.description,debug.server.ready.serverReadyAction.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.uriFormat.description,debug.server.ready.uriFormat.description
+vscode.debug-server-ready.i18n.json,package,debug.server.ready.webRoot.description,debug.server.ready.webRoot.description
+vscode.debug-server-ready.i18n.json,package,description,Sự miêu tả
+vscode.debug-server-ready.i18n.json,package,displayName,DisplayName
+vscode.debug-server-ready.i18n.json,bundle,Format uri ('{0}') must contain exactly one substitution placeholder.,Format uri ('{0}') must contain exactly one substitution placeholder.
+vscode.debug-server-ready.i18n.json,bundle,Format uri ('{0}') uses a substitution placeholder but pattern did not capture anything.,Format uri ('{0}') uses a substitution placeholder but pattern did not capture anything.

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Build outputs
+work/vi_language_pack/_inspect*/
+work/vi_language_pack/pack_root/
+work/vi_language_pack/*.zip
+work/vi_language_pack/*.vsix
+
+# Temporary/Cache
+work/cache_translations.json
+work/to_translate_translated.txt
+work/*.tmp
+
+# OS
+Thumbs.db
+.DS_Store

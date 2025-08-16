@@ -1,0 +1,9 @@
+"﻿""file""",scope,key,value_zh
+vscode.jake.i18n.json,bundle,"Auto detecting Jake for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown","Auto detecting Jake for folder {0} failed with error: {1}', this.workspaceFolder.name, err.error ? err.error.toString() : 'unknown"
+vscode.jake.i18n.json,package,config.jake.autoDetect,config.jake.autoDetect
+vscode.jake.i18n.json,package,description,Sự miêu tả
+vscode.jake.i18n.json,package,displayName,DisplayName
+vscode.jake.i18n.json,bundle,Go to output,Đi đến đầu ra
+vscode.jake.i18n.json,package,jake.taskDefinition.file.description,jake.taskDefinition.file.description
+vscode.jake.i18n.json,package,jake.taskDefinition.type.description,jake.taskDefinition.type.description
+vscode.jake.i18n.json,bundle,Problem finding jake tasks. See the output for more information.,Vấn đề tìm kiếm nhiệm vụ Jake. Xem đầu ra để biết thêm thông tin.
