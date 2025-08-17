@@ -80,20 +80,7 @@
 - `package.json` được sinh dựa trên metadata của VSIX mẫu (giữ version/engines, đổi `languageId` → `vi`)
 - Encoding: UTF-8 (không BOM). CSV header yêu cầu `file, scope, key, value_zh`
 
-## 🐙 Đẩy toàn bộ dự án lên GitHub
-1) Tạo repo trống trên GitHub (ví dụ: `https://github.com/<user>/vscode-langpack-vi`)
-2) Chạy các lệnh sau trong thư mục gốc dự án:
-   ```powershell
-   git init
-   git add .
-   git commit -m "feat: initial Vietnamese language pack from CSV"
-   git branch -M main
-   git remote add origin https://github.com/<user>/vscode-langpack-vi.git
-   git push -u origin main
-   ```
-- Nếu gặp lỗi xác thực, cấu hình credential helper hoặc dùng SSH remote.
-
----
+<!-- Đã loại bỏ hướng dẫn/ghi chú liên quan đến GitHub để bảo mật thông tin tài khoản. -->
 
 ## 💖 Ủng hộ dự án
 Bạn thấy dự án hữu ích? Mọi đóng góp sẽ giúp mình duy trì và phát triển thêm tính năng, tài liệu và chất lượng dịch. Cảm ơn bạn rất nhiều! 🙌
