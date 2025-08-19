@@ -1,11 +1,11 @@
 # 🇻🇳 Gói Việt hoá VS Code — VietHoaVSCodeV2.0
 
-> Công cụ và tài liệu phục vụ Việt hoá VS Code. Tài liệu chi tiết đặt trong thư mục `README/` để gọn gàng.
+> Công cụ và tài liệu phục vụ Việt hoá VS Code. Tài liệu chi tiết đặt trong thư mục [README/](README/) để gọn gàng.
 
 ### 🔗 Quick Links
-- 📘 Hướng dẫn sử dụng VSIX Editor: `README/VSIX_Editor_HuongDan.md`
-- ⚙️ Yêu cầu môi trường: `README/VSIX_Editor_YeuCau_MoiTruong.md`
-- 📦 Cài đặt VSIX vào VS Code: `README/VSCode_VSIX_CaiDat_HuongDan.md`
+- 📘 Hướng dẫn sử dụng VSIX Editor: [README/VSIX_Editor_HuongDan.md](README/VSIX_Editor_HuongDan.md)
+- ⚙️ Yêu cầu môi trường: [README/VSIX_Editor_YeuCau_MoiTruong.md](README/VSIX_Editor_YeuCau_MoiTruong.md)
+- 📦 Cài đặt VSIX vào VS Code: [README/VSCode_VSIX_CaiDat_HuongDan.md](README/VSCode_VSIX_CaiDat_HuongDan.md)
 
 ---
 
@@ -19,8 +19,8 @@
 - Hỗ trợ Dark/Light mode; UI hiện đại khi có `customtkinter` (fallback sang `tkinter/ttk` nếu chưa cài).
 - Khu lọc file bên trái đã làm mới với bố cục lưới rõ ràng: lọc theo chức năng, loại, và tên (có co giãn chiều ngang).
 
-Xem hướng dẫn chi tiết: `README/VSIX_Editor_HuongDan.md`
-Yêu cầu môi trường (bao gồm cài đặt UI hiện đại): `README/VSIX_Editor_YeuCau_MoiTruong.md`
+Xem hướng dẫn chi tiết: [README/VSIX_Editor_HuongDan.md](README/VSIX_Editor_HuongDan.md)
+Yêu cầu môi trường (bao gồm cài đặt UI hiện đại): [README/VSIX_Editor_YeuCau_MoiTruong.md](README/VSIX_Editor_YeuCau_MoiTruong.md)
 
 ---
 
@@ -36,7 +36,7 @@ Yêu cầu môi trường (bao gồm cài đặt UI hiện đại): `README/VSIX
 ---
 
 ## 🚀 Bắt đầu nhanh
-- Yêu cầu môi trường: `README/VSIX_Editor_YeuCau_MoiTruong.md`
+- Yêu cầu môi trường: [README/VSIX_Editor_YeuCau_MoiTruong.md](README/VSIX_Editor_YeuCau_MoiTruong.md)
 - Chạy ứng dụng:
   ```bash
   python UItranslate/vsix_editor.py

@@ -41,7 +41,7 @@
   - Lưu nội dung tệp hiện tại ra đĩa (nếu cho phép chỉnh sửa).
   - Build/Lưu VSIX mới; hỗ trợ tự tăng version (patch) để cài thử nhanh.
   - Cho phép lưu đè vào VSIX gốc (tuỳ chọn) để cập nhật bản cài đặt.
-- 🌓 Giao diện & Trải nghiệm:
+- 🌓 Giao diện & Trải nghiệm (Thử nghiệm với `customtkinter`):
   - Dark/Light mode có thể bật/tắt nhanh trong thanh công cụ.
   - Hỗ trợ `customtkinter` cho giao diện hiện đại; fallback `tkinter/ttk` nếu chưa cài.
   - Bố cục PanedWindow 2 panel, có minsize để tránh chồng lấn.
@@ -70,6 +70,6 @@
 ---
 
 ## 📚 Tài liệu liên quan
-- Yêu cầu môi trường: `README/VSIX_Editor_YeuCau_MoiTruong.md`
-- Hướng dẫn cài VSIX: `README/VSCode_VSIX_CaiDat_HuongDan.md`
- - Tổng quan dự án: `README.md`
+ - Yêu cầu môi trường: [VSIX_Editor_YeuCau_MoiTruong.md](VSIX_Editor_YeuCau_MoiTruong.md)
+ - Hướng dẫn cài VSIX: [VSCode_VSIX_CaiDat_HuongDan.md](VSCode_VSIX_CaiDat_HuongDan.md)
+ - Tổng quan dự án: [../README.md](../README.md)
