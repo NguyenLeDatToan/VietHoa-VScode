@@ -1,4 +1,4 @@
-# 🇻🇳 Gói Việt hoá VS Code — VietHoaVSCodeV2.0
+# Việt hoá VS Code — VietHoaVSCodeV2.0
 
 > Công cụ và tài liệu phục vụ Việt hoá VS Code. Tài liệu chi tiết đặt trong thư mục [README/](README/) để gọn gàng.
 
